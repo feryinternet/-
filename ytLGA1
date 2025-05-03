@@ -27028,6 +27028,12 @@ https://master.hdtvs1.top/aHR0cHM6Ly9zZy5zMnN0cmVhbS5jZmQvc3RyZWFtc2cvaGxzLzEvc3
 #KODIPROP:inputstream.adaptive.license_key=ebe0494a4f294184ae9d364ab570946f:9b8c959e9e3602bcced646b1fd106192
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
+#EXTINF:-1 group-title="#,-MOTOGP " tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",NONTONGP SBK2
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebe0494a4f294184ae9d364ab570946f:7dd9ad90969ad99bf96a35139937dd1a
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="#,-MOTOGP ",SpoTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
