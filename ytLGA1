@@ -31158,27 +31158,7 @@ https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
 #EXTINF:-1 group-title="#.BRI LIGA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",INDOSIAR BRI LIGApake vpn
 http://filex.tv:8080/shakeelmirza/4110440/302264
 
-#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="#.BRI LIGA", INDOSIAR BRI LIGA 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=205
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=205
 
-#EXTINF:-1 group-title="#.BRI LIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/ecqo1RBq7VPglkNeQ9VT8zrPHqc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260446/b80825.jpg",Persis vs Arema FC - BRI Liga 1 (18:30 - 5 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17850&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17850&type=dash
-
-#EXTINF:-1 group-title="#.BRI LIGA" tvg-logo="https://thumbor.prod.vidiocdn.com/j3HrpXYUbjO_U5eW9CD7CPuz_Q0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260445/c0614c.jpg", Persis vs Arema FC - BRI Liga 1 (19:00 - 5 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17624&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17624&type=dash
 
 
 #EXTINF:-1 group-title="#.LIVE EVENT TEST" tvg-logo="https://thumbor.prod.vidiocdn.com/ecqo1RBq7VPglkNeQ9VT8zrPHqc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260446/b80825.jpg",Persis vs Arema FC - BRI Liga 1 (18:30 - 5 May 2025)
@@ -31189,12 +31169,19 @@ https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17624&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17850&type=drm
 https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17850&type=dash
 
-#EXTINF:-1 group-title="#.LIVE EVENT TEST" tvg-logo="https://thumbor.prod.vidiocdn.com/j3HrpXYUbjO_U5eW9CD7CPuz_Q0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4260445/c0614c.jpg", Persis vs Arema FC - BRI Liga 1 (19:00 - 5 May 2025)
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=17624&type=drm
-https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=17624&type=dash
+#EXTINF:-1 group-title="#.LIVE EVENT TEST" tvg-logo="https://assets.isu.pub/document-structure/230710010359-0207b486906096fe71e61b128b139c8d/v1/23ed7fdfd675261ee266cdab24f66a49.jpeg", Serie A | genoa vs ac milan 1223938 [ 2025-05-06 01:45 WIB ]
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1223938
+
+#EXTINF:-1 group-title="#.LIVE EVENT TEST" tvg-logo="https://assets.isu.pub/document-structure/230710010359-0207b486906096fe71e61b128b139c8d/v1/23ed7fdfd675261ee266cdab24f66a49.jpeg", Premier League | crystal palace vs nottingham forest 1208368 [ 2025-05-06 02:00 WIB ]
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1208368
+
+#EXTINF:-1 group-title="#.LIVE EVENT TEST" tvg-logo="https://assets.isu.pub/document-structure/230710010359-0207b486906096fe71e61b128b139c8d/v1/23ed7fdfd675261ee266cdab24f66a49.jpeg", La Liga | girona vs mallorca 1208791 [ 2025-05-06 02:00 WIB ]
+#EXTHTTP:{"Origin": "https://live-streamfootball.com", "Referer": "https://live-streamfootball.com/", "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1"}
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://sangkatv.xyz/kode/scorevisit/pro.php/.m3u8?id=1208791
 
 
