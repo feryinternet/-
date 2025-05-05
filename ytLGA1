@@ -31158,4 +31158,9 @@ https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
 #EXTINF:-1 group-title="#.BRI LIGA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png",INDOSIAR BRI LIGApake vpn
 http://filex.tv:8080/shakeelmirza/4110440/302264
 
+#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png" group-title="#.BRI LIGA", INDOSIAR BRI LIGA 
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/vidio/drm-tvkita.php?id=205
+https://tvkitastream.my.id/vidio/dash-tvkita.php/.mpd?id=205
 
