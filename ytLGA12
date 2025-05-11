@@ -15443,16 +15443,16 @@ https://youtube.com/@lga775iptv
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.-2.REQ PLAYlLIST PREMIUM ",REQ PLAYLIST HUB/WA 085794973101
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.-2.REQ PLAYlLIST PREMIUM ",REQ PLAYLIST HUB/WA 085794973101
 https://youtube.com/@lga775iptv@lga775iptv
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.-2.REQ PLAYlLIST PREMIUM ",PLAYLIST KOMPLIT LIGA EROPA
-https://youtube.com/@lga775iptv@lga775iptv
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.-2.REQ PLAYlLIST PREMIUM ",PLAYLIST KOMPLIT LIGA EROPA
+https://youtube.com/@lga775iptv
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.-1.REFRESH PLAYLIST DULU SETIAP BUKA ",REQ PLAYLIST HUB/WA 085794973101
-https://youtube.com/@lga775iptv@lga775iptv
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.-1.REFRESH PLAYLIST DULU SETIAP BUKA ",REQ PLAYLIST HUB/WA 085794973101
+https://youtube.com/@lga775iptv
 
 
 
@@ -26976,6 +26976,42 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2p
 
 
 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.SPORT CHAMPION TV"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="#.UCL"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="-JAPAN"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="-KOREA"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="-MALAYSIA"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="-SINGAPORE"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="-sport"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="Brunei"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="ENTERTAINMENT"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="FMX"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="KNOWLEDGE AND ANIMAL"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="RELIGI"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="TRANSVISION"
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-title="WWE GULAT"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -26991,29 +27027,6 @@ https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2p
 
 
 #EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 #EXTINF:-1 tvg-name="" group-title="#.CHANNEL SPORTSTAR" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/sportstar2.png", SPORTSTAR 2
@@ -27898,6 +27911,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b41
 
 
 <=============================================== HBO  =============================================>
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png"
 #EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0" group-title="#.HBO",HBO Transvision (OS9)
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/210.ts
@@ -29309,6 +29323,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
 #EXTINF:-1 group-title="News" tvg-id="AlJazeeraEnglish.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Al Jazeera
 https://cempedak-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png"
 #EXTINF:-1 group-title="#.LGA775 IPTV" tvg-logo="https://www.pngall.com/wp-content/uploads/2017/05/Disclaimer-Symbol-PNG-Picture.png",#1. DISCLAIMER
 https://youtu.be/NX37M0ASems
 
@@ -29918,7 +29933,7 @@ http://210.210.155.37/uq2663/h/h238/01.m3u8
  
 ================================================================== CHANNEL | INDONESIA ==================================================================
 
-
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png"
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/indosiar.png" group-title="#.CHANNEL INDONESIA",INDOSIAR (D)
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -30838,7 +30853,7 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=40d4210e476340e091d5433d45fdd8f1:090459185a95c99e6bae332d689e6fbe
 https://live-streaming-rsm.azureedge.net/wwehd/wwehd_cenc.isml/.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.0PLAYLIST FULL VOD",https://dik.si/feryiptv-BolaVOD
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.0PLAYLIST FULL VOD",https://dik.si/feryiptv-BolaVOD
 https://youtube.com/@lga775iptv
 
 
@@ -31134,6 +31149,7 @@ https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8
 
 
 #EXTM3U
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png"
 #EXTINF:-1 group-title="#.-LIVE EVENT TGL 10 MEI" tvg-logo="https://thumbor.prod.vidiocdn.com/gz8scbzwGnSQ1ucDcnmbkEMx6oM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-taipei-open-2025-semifinals-court-1-80f29b.jpg", Dejan Ferdinansyah/Siti Fadia Silva Ramadhanti (INA) vs Jafar Hidayatullah/Felisha Alberta Nathaniel Pasaribu (INA) - Mixed Doubles Final | Yonex Taipei Open 2025 (11:00 - 11 May 2025)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
