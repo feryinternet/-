@@ -1,179 +1,21 @@
+File: subscriber.m3u
+
 #EXTM3U
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/XbLJVwLqD2-UOM4X3V33zVxAyE0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4725611/a81a37.jpg" group-title="-🔴 LIVE EVENT", Cremonese vs Roma - Serie A (20:45 WIB * 23-11-2025)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ncpwhh79vazUx7-Bvgd_yYZ5MWs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733351/e0582a.jpg" group-title="-🔴 LIVE EVENT", Putri: Petrokimia Volleyball Club vs Bengkulu Jaya - Kejurnas Bola Voli Antarklub U-19 (14:39 WIB * 24-11-2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=19404&type=drm
-http://pididi.x10.mx/pidio/index.mpd?id=19404&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19886&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=19886&type=dash
 
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/FtQvRlfPJzTjhJeKrI2NORtKZEk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4726069/87ecd0.jpg" group-title="-🔴 LIVE EVENT", Leeds United vs Aston Villa - Premier League (20:29 WIB * 23-11-2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=9182&type=drm
-http://pididi.x10.mx/pidio/index.mpd?id=9182&type=dash
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/HkN43ug3kYQBPUd0Zs4c1SYwPWg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4732210/a43401.jpg" group-title="-🔴 LIVE EVENT", Final: Italy vs Spain - Davis Cup Final 8 (21:00 WIB * 23-11-2025)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/_dqWIAnr-HE90a3XaxF--u5hTX4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4732316/9fd0b2.jpg" group-title="-🔴 LIVE EVENT", Tenshin Nasukawa vs Takuma Inoue - Bantamweight World Championship (14:45 WIB * 24-11-2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6685&type=drm
 http://pididi.x10.mx/pidio/index.mpd?id=6685&type=dash
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/2gUbgWRhNmhwd_ZSBvhoMMoki6Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4726077/ab0f5d.jpg" group-title="-🔴 LIVE EVENT", Feyenoord vs NEC Nijmegen - Eredivisie (20:30 WIB * 23-11-2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6686&type=drm
-http://pididi.x10.mx/pidio/index.mpd?id=6686&type=dash
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/qDJqv8Yt92VerJr_ZpO7lnLQpSw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4726063/1defb4.jpg" group-title="-🔴 LIVE EVENT", Galatasaray Daikin vs Nilufer Belediyespor - Turkish Women's Volleyball League (20:55 WIB * 23-11-2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=19738&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=19738&type=dash
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/G7_Kj5-A1hS75PvFeWURBuYB1O0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4724321/97a85d.jpg" group-title="-🔴 LIVE EVENT", Real Betis vs Girona - LaLiga (22:10 WIB * 23-11-2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6299&type=drm
-http://pididi.x10.mx/pidio/index.mpd?id=6299&type=dash
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/CGL82WVbUaXMbC7c0_qFyuLwa4Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4726070/3b0ecc.jpg" group-title="-🔴 UPCOMING", Arsenal vs Tottenham - Premier League (23:11 WIB * 23-11-2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=9182&type=drm
-http://pididi.x10.mx/pidio/index.mpd?id=9182&type=dash
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/sKAzkgq_hfG0ugikJfcn_gJTvMo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4726072/2b0a86.jpg" group-title="-🔴 UPCOMING", (Data Zone) Arsenal vs Tottenham - Premier League (23:30 WIB * 23-11-2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=9183&type=drm
-http://pididi.x10.mx/pidio/index.mpd?id=9183&type=dash
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/350CYh3XGefsLK0r6qI1XHGXrKk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4727016/a9f68a.jpg" group-title="-🔴 UPCOMING", Lazio vs Lecce - Serie A (23:45 WIB * 23-11-2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=19404&type=drm
-http://pididi.x10.mx/pidio/index.mpd?id=19404&type=dash
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/hADp5segPcPtYZO58qLVNvNsBCk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4726811/c6bbc7.jpg" group-title="-🔴 UPCOMING", Getafe vs Atletico Madrid - LaLiga (00:25 WIB * 24-11-2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6299&type=drm
-http://pididi.x10.mx/pidio/index.mpd?id=6299&type=dash
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/b1xyOEn6A62AUEKIi9A3kmJg2Hs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733430/690ca4.jpg" group-title="-🔴 UPCOMING", Indianapolis Colts vs Kansas City Chiefs - NFL (01:00 WIB * 24-11-2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=19623&type=drm
-http://pididi.x10.mx/pidio/index.mpd?id=19623&type=dash
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/pvaWUUQF6DbixV2MmWgVbRs7DrE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4732319/fad970.jpg" group-title="-🔴 UPCOMING", The RSM Classic - Round 4 (01:00 WIB * 24-11-2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=18189&type=drm
-http://pididi.x10.mx/pidio/index.mpd?id=18189&type=dash
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0wWnI87PZd07mW0noOdWA-gPP14=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733344/0e016a.jpg" group-title="-🔴 UPCOMING", CME Group Tour Championship - Round 4 (01:00 WIB * 24-11-2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=18190&type=drm
-http://pididi.x10.mx/pidio/index.mpd?id=18190&type=dash
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/05DKtk6qecYQmcSkTJFEBCaat94=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4728932/1efba5.jpg" group-title="-🔴 UPCOMING", Inter vs Milan - Serie A (02:15 WIB * 24-11-2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=19404&type=drm
-http://pididi.x10.mx/pidio/index.mpd?id=19404&type=dash
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/yfipao-Ovundhe8ySANaqk8FKds=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4726812/b755e5.jpg" group-title="-🔴 UPCOMING", Elche vs Real Madrid - LaLiga (02:55 WIB * 24-11-2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6299&type=drm
-http://pididi.x10.mx/pidio/index.mpd?id=6299&type=dash
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/pJoG9q9IlxwY5X6AdYtKSsCSWDA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733429/c57384.jpg" group-title="-🔴 UPCOMING", Philadelphia Eagles vs Dallas Cowboys - NFL (04:25 WIB * 24-11-2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=19623&type=drm
-http://pididi.x10.mx/pidio/index.mpd?id=19623&type=dash
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Tn7CynalaEnpTa0uMgN-eB76kGE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4727019/b2c333.jpg" group-title="-🔴 UPCOMING", Tampa Bay Buccaneers vs Los Angeles Rams - NFL (08:10 WIB * 24-11-2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=19748&type=drm
-http://pididi.x10.mx/pidio/index.mpd?id=19748&type=dash
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/DsLrukImN654nr87hsKACskEsOw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733346/d1e433.jpg" group-title="-🔴 UPCOMING", Putri: Lampung Phinisi vs Privolley Gurita Kaur - Kejurnas Bola Voli Antarklub U-19 (08:45 WIB * 24-11-2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19886&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=19886&type=dash
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/w7al1AatqQtn4tPHveM2pnE9DUA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733348/9a1d61.jpg" group-title="-🔴 UPCOMING", Putra: Bengkulu Jaya vs PSC Kotim - Kejurnas Bola Voli Antarklub U-19 (11:00 WIB * 24-11-2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19886&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=19886&type=dash
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QZCXEWux3xEvl6vYNgpq2G0_gxI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733349/3bb668.jpg" group-title="-🔴 UPCOMING", Putri: Caroline Lubuklinggau vs Armada - Kejurnas Bola Voli Antarklub U-19 (13:00 WIB * 24-11-2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19886&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=19886&type=dash
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/_dqWIAnr-HE90a3XaxF--u5hTX4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4732316/9fd0b2.jpg" group-title="-🔴 UPCOMING", Tenshin Nasukawa vs Takuma Inoue - Bantamweight World Championship (14:45 WIB * 24-11-2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6685&type=drm
-http://pididi.x10.mx/pidio/index.mpd?id=6685&type=dash
-
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ncpwhh79vazUx7-Bvgd_yYZ5MWs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733351/e0582a.jpg" group-title="-🔴 UPCOMING", Putri: Petrokimia Volleyball Club vs Bengkulu Jaya - Kejurnas Bola Voli Antarklub U-19 (15:00 WIB * 24-11-2025)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19886&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=19886&type=dash
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/iFBk9jSKXkTAhHpwO5XAO5VKS_c=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4727622/18e7d3.jpg" group-title="-🔴 UPCOMING", Persikad vs Adhyaksa FC - Pegadaian Championship (15:22 WIB * 24-11-2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -279,6 +121,38 @@ http://pididi.x10.mx/pidio/index.mpd?id=6317&type=dash
 #KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=19748&type=drm
 http://pididi.x10.mx/pidio/index.mpd?id=19748&type=dash
 
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/jNi8XXvmHcmKYzXzaPaxJSL74qg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/syed-modi-india-international-2025-qualifiers-round-of-32-court-1-151516.jpg" group-title="-🔴 UPCOMING", SYED MODI India International 2025 - Qualifiers & Round of 32 (Court 1) (10:30 WIB * 25-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=18249&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=18249&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/G7WvZ_uYxgZK8761orAQLqXLtEc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/syed-modi-india-international-2025-qualifiers-round-of-32-court-2-920d3c.jpg" group-title="-🔴 UPCOMING", SYED MODI India International 2025 - Qualifiers & Round of 32 (Court 2) (10:30 WIB * 25-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=18250&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=18250&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5ItTa7JhFHyMYFCwlh5bXuRXVLI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/syed-modi-india-international-2025-qualifiers-round-of-32-court-3-803ff6.jpg" group-title="-🔴 UPCOMING", SYED MODI India International 2025 - Qualifiers & Round of 32 (Court 3) (10:30 WIB * 25-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=18252&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=18252&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/HkEJlPZEfRXSp5oOZ98qxBNet6Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18253/syed-modi-india-international-2025-qualifiers-round-of-32-court-4-6776d4.jpg" group-title="-🔴 UPCOMING", SYED MODI India International 2025 - Qualifiers & Round of 32 (Court 4) (10:30 WIB * 25-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=18253&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=18253&type=dash
+
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/STQ_JU4SSfBwnT3pyacAX7ydjeE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4727761/bcc667.jpg" group-title="-🔴 UPCOMING", Spor Toto vs Cizre Bld - Turkish Men's Volleyball League (17:55 WIB * 25-11-2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -287,103 +161,321 @@ http://pididi.x10.mx/pidio/index.mpd?id=19748&type=dash
 #KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=19737&type=drm
 http://pididi.x10.mx/pidio/index.mpd?id=19737&type=dash
 
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/mspMoTD2OiuWEjvwu4dJPKa1mh8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733788/f70544.jpg" group-title="-🔴 UPCOMING", Chelsea vs Barcelona - UEFA Youth League (20:00 WIB * 25-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/vplu$/play.mpd?id=1010&type=drm&token=9dd118f238a3feae61fb80f89b708cac
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/cn/73781/SNAPSHOT/xl/0" group-title="-🔴 LIVE EVENT VISION", 23Nov 18.00 WIB | AFC Women's Champions League 2025/26• Wuhan Jiangda Women's FC (CHN) vs Bam Khatoon (IRN)
-https://nextgenz.my.id/vplu$/play.mpd?id=1010&type=dash&token=9dd118f238a3feae61fb80f89b708cac
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6299&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=6299&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/UiPYqXoI814ncwLsmIP7kBEUeeI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733519/e5834b.jpg" group-title="-🔴 UPCOMING", Ziraat Bankkart vs Istanbul Genclik Spor - Turkish Men's Volleyball League (20:30 WIB * 25-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=19737&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=19737&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/iEpqzHT4S-5UbJOj_4ERy-7iIzs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733790/e8b058.jpg" group-title="-🔴 UPCOMING", Dortmund vs Villarreal - UEFA Youth League (22:00 WIB * 25-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6299&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=6299&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QEEFzca6aob-nRVOGFbtHW1UxR8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733520/58bc68.jpg" group-title="-🔴 UPCOMING", Ajax vs Benfica - UEFA Champions League (00:45 WIB * 26-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=17883&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=17883&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/bQdC2tzzMlobNYsRBOgfEcYQQxQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733512/b175cd.jpg" group-title="-🔴 UPCOMING", Galatasaray vs Union Saint-Gilloise - UEFA Champions League (00:45 WIB * 26-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6317&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=6317&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/GffQzv3pwTz9PMwrtvK51Vzp024=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733529/8043c4.jpg" group-title="-🔴 UPCOMING", Dortmund vs Villarreal - UEFA Champions League (02:50 WIB * 26-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=18302&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=18302&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/mkeDoVJQO5e5SJA5c32Wl02wVEY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733533/6bcdd5.jpg" group-title="-🔴 UPCOMING", Napoli vs Qarabag FK - UEFA Champions League (02:50 WIB * 26-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=18303&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=18303&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/KfjIQLd4iqzwp1sZUSJ6F16DxqM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733536/4b7a6e.jpg" group-title="-🔴 UPCOMING", Slavia Praha vs Athletic Club - UEFA Champions League (02:50 WIB * 26-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=18304&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=18304&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/o8Bzid3qcL8pQfF2nsoKnkxNj_s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733525/f7bef9.jpg" group-title="-🔴 UPCOMING", Bodo/Glimt vs Juventus - UEFA Champions League (02:50 WIB * 26-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=18301&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=18301&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/hC74iQmlc41uhXLGg7qyIePhblk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733537/908be5.jpg" group-title="-🔴 UPCOMING", Chelsea vs Barcelona - UEFA Champions League (03:00 WIB * 26-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=17883&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=17883&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/KQGcsgR5ndnccGDkdUXr1Zm0lw0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733513/e39baf.jpg" group-title="-🔴 UPCOMING", Man City vs Leverkusen - UEFA Champions League (03:00 WIB * 26-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6317&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=6317&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/pjMWzrXn7bMedQuarAkwYlFeUZA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733538/f2a561.jpg" group-title="-🔴 UPCOMING", Marseille vs Newcastle - UEFA Champions League (03:00 WIB * 26-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=17875&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=17875&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/2zKmCjlxYOk7m31oVQWQju6UuJA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733514/38cb67.jpg" group-title="-🔴 UPCOMING", Mexico Major Premier Padel 2025 - Day 2 (05:00 WIB * 26-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6317&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=6317&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/iwexrzbGr5Y-44ojhpPrsE_cWpY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733547/db644e.jpg" group-title="-🔴 UPCOMING", Indonesia vs Nepal - Women's International Friendly Match (19:30 WIB * 26-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=19960&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=19960&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/s7m65klUdrBg-AfsnUBcOQOnTqs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733791/22a04c.jpg" group-title="-🔴 UPCOMING", Arsenal vs Bayern - UEFA Youth League (20:00 WIB * 26-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6299&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=6299&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/BCxK3EMcN5DWXScZ-HCgPtHEj_g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733544/a37274.jpg" group-title="-🔴 UPCOMING", Fenerbahce Medicana vs Galatasaray HDI Sigorta - Turkish Men's Volleyball League (22:00 WIB * 26-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=19737&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=19737&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/8kEjsEoQQyRJoEzxzFwBGlBtPuU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733792/61e976.jpg" group-title="-🔴 UPCOMING", Eintracht Frankfurt vs Atalanta - UEFA Youth League (22:00 WIB * 26-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6299&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=6299&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/TuTCpfBk6kFleKiCb0ukXcXOcFE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733515/91cfe6.jpg" group-title="-🔴 UPCOMING", Copenhagen vs Kairat - UEFA Champions League (00:45 WIB * 27-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6317&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=6317&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/9-mvdMRm7jJl2MaOKDBhCA3QQJ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733521/2d142c.jpg" group-title="-🔴 UPCOMING", Pafos vs Monaco - UEFA Champions League (00:45 WIB * 27-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=17883&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=17883&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Hq7j2e6YLZvbUiYf4UFvPbjm0bE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733549/0a5579.jpg" group-title="-🔴 UPCOMING", Eintracht Frankfurt vs Atalanta - UEFA Champions League (02:50 WIB * 27-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=18302&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=18302&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/iaJSjUyiuKxfRyCnolw1GPKDu3k=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733548/d4fdb1.jpg" group-title="-🔴 UPCOMING", Atletico Madrid vs Inter - UEFA Champions League (02:50 WIB * 27-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=18301&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=18301&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/n5QsRzEYdF5ZA9WSHYLvuMaqlJw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733550/565ef8.jpg" group-title="-🔴 UPCOMING", Olympiacos vs Real Madrid - UEFA Champions League (02:50 WIB * 27-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=18303&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=18303&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/V1dbEN2pB4Ib9kn28rWEEiMdoYI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733551/fb57cc.jpg" group-title="-🔴 UPCOMING", Sporting vs Club Brugge - UEFA Champions League (02:50 WIB * 27-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=18304&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=18304&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/t11BYHjUmf1nNDV0aRCzFjhKvBo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733540/94470c.jpg" group-title="-🔴 UPCOMING", PSG vs Tottenham - UEFA Champions League (03:00 WIB * 27-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6299&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=6299&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/nsMv8BAe3l7c9VdY0YX5QrGW0QU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733516/da5c84.jpg" group-title="-🔴 UPCOMING", Arsenal vs Bayern - UEFA Champions League (03:00 WIB * 27-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6317&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=6317&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/-zz1fJlNBsrqfsRQpFEaZE1RYM0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733522/e92a2a.jpg" group-title="-🔴 UPCOMING", Liverpool vs PSV - UEFA Champions League (03:00 WIB * 27-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=17883&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=17883&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/uZXDrsQYgREIB-7TEEPqPNTfZB4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733517/45cd3c.jpg" group-title="-🔴 UPCOMING", Mexico Major Premier Padel 2025 - Day 3 (05:00 WIB * 27-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6317&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=6317&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/O6-15kgAjHSeEx0DvufUa06GVk4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733530/d2822b.jpg" group-title="-🔴 UPCOMING", Roma vs Midtjylland - UEFA Europa League (00:45 WIB * 28-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=19603&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=19603&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/pMAwd7WG4VrPjfrSqhuQWX-xU0s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733541/c8f409.jpg" group-title="-🔴 UPCOMING", Aston Villa vs Young Boys - UEFA Europa League (00:45 WIB * 28-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6299&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=6299&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/X4zvAGim6YzR8GSMK3C4IH0Q52w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733518/d37170.jpg" group-title="-🔴 UPCOMING", Porto vs Nice - UEFA Europa League (00:45 WIB * 28-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6317&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=6317&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/dK9ZAIrbhWEvPjKf-zMTfb1LCkQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733539/cef53a.jpg" group-title="-🔴 UPCOMING", Bologna vs RB Salzburg - UEFA Europa League (03:00 WIB * 28-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=17875&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=17875&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/aWWjZD3BwtnERapBCJ_z7SquBNs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733542/c5e3fd.jpg" group-title="-🔴 UPCOMING", Nottingham Forest vs Malmo - UEFA Europa League (03:00 WIB * 28-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6299&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=6299&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ytdWRbYheyeQtFX6iGe1kn-sM6I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733534/46c592.jpg" group-title="-🔴 UPCOMING", Real Betis vs Utrecht - UEFA Europa League (03:00 WIB * 28-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=19603&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=19603&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/RwIPSwPZ_DZbEfUSTEOBPS6xTc4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733527/2b254e.jpg" group-title="-🔴 UPCOMING", Mexico Major Premier Padel 2025 - Day 4 (05:00 WIB * 28-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6317&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=6317&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/nbZ_QUPWal5peTTDxFwhDp2TSYE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733532/56f030.jpg" group-title="-🔴 UPCOMING", Mexico Major Premier Padel 2025 - Quarter Final (05:00 WIB * 29-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6317&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=6317&type=dash
+
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/2Dd1LC8EvJTlzuWMpDW1qPg9rN4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4733528/3b964f.jpg" group-title="-🔴 UPCOMING", Mexico Major Premier Padel 2025 - Semifinal (05:00 WIB * 30-11-2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://pididi.x10.mx/pidio/index.php?id=6317&type=drm
+http://pididi.x10.mx/pidio/index.mpd?id=6317&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/vplu$/play.mpd?id=1011&type=drm&token=9dd118f238a3feae61fb80f89b708cac
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/vplu$/play.mpd?id=1011&type=drm&token=3a3d08a9216f1302e7cec35298bf7653
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/cn/242587/SNAPSHOT/xl/0" group-title="-🔴 LIVE EVENT VISION", 24Nov 20.45 WIB | AFC Champions League Elite 2025/26• PFC Nasaf (UZB) vs Tractor FC (IRN)
-https://nextgenz.my.id/vplu$/play.mpd?id=1011&type=dash&token=9dd118f238a3feae61fb80f89b708cac
+https://nextgenz.my.id/vplu$/play.mpd?id=1011&type=dash&token=3a3d08a9216f1302e7cec35298bf7653
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/vplu$/play.mpd?id=1002&type=drm&token=9dd118f238a3feae61fb80f89b708cac
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/vplu$/play.mpd?id=1002&type=drm&token=3a3d08a9216f1302e7cec35298bf7653
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/cn/242537/SNAPSHOT/xl/0" group-title="-🔴 LIVE EVENT VISION", 24Nov 23.00 WIB | AFC Champions League Elite 2025/26• Al Duhail SC (QAT) vs Al Ittihad Club (KSA)
-https://nextgenz.my.id/vplu$/play.mpd?id=1002&type=dash&token=9dd118f238a3feae61fb80f89b708cac
+https://nextgenz.my.id/vplu$/play.mpd?id=1002&type=dash&token=3a3d08a9216f1302e7cec35298bf7653
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/vplu$/play.mpd?id=1011&type=drm&token=9dd118f238a3feae61fb80f89b708cac
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/vplu$/play.mpd?id=1011&type=drm&token=3a3d08a9216f1302e7cec35298bf7653
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/cn/242649/SNAPSHOT/xl/0" group-title="-🔴 LIVE EVENT VISION", 24Nov 23.00 WIB | AFC Champions League Elite 2025/26• Shabab Al Ahli (UAE) vs Al Gharafa SC (QAT)
-https://nextgenz.my.id/vplu$/play.mpd?id=1011&type=dash&token=9dd118f238a3feae61fb80f89b708cac
+https://nextgenz.my.id/vplu$/play.mpd?id=1011&type=dash&token=3a3d08a9216f1302e7cec35298bf7653
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/vplu$/play.mpd?id=1011&type=drm&token=9dd118f238a3feae61fb80f89b708cac
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/cn/242571/SNAPSHOT/xl/0" group-title="-🔴 LIVE EVENT VISION", 23Nov 21.25 WIB | Bundesliga 2025/26• RB Leipzig vs SV Werder Bremen
-https://nextgenz.my.id/vplu$/play.mpd?id=1011&type=dash&token=9dd118f238a3feae61fb80f89b708cac
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/vplu$/play.mpd?id=1011&type=drm&token=9dd118f238a3feae61fb80f89b708cac
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/cn/242563/SNAPSHOT/xl/0" group-title="-🔴 LIVE EVENT VISION", 23Nov 23.30 WIB | Bundesliga 2025/26• FC St Pauli vs FC Union Berlin
-https://nextgenz.my.id/vplu$/play.mpd?id=1011&type=dash&token=9dd118f238a3feae61fb80f89b708cac
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/vplu$/play.mpd?id=1011&type=drm&token=9dd118f238a3feae61fb80f89b708cac
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/cn/242593/SNAPSHOT/xl/0" group-title="-🔴 LIVE EVENT VISION", 23Nov 16.30 WIB | Pro Futsal League 2025/26• Bintang Timur Surabaya vs Raybit FC
-https://nextgenz.my.id/vplu$/play.mpd?id=1011&type=dash&token=9dd118f238a3feae61fb80f89b708cac
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/vplu$/play.mpd?id=1011&type=drm&token=9dd118f238a3feae61fb80f89b708cac
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/cn/242595/SNAPSHOT/xl/0" group-title="-🔴 LIVE EVENT VISION", 23Nov 19.00 WIB | Pro Futsal League 2025/26• Unggul FC Malang vs Moncongbulo FC
-https://nextgenz.my.id/vplu$/play.mpd?id=1011&type=dash&token=9dd118f238a3feae61fb80f89b708cac
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/vplu$/play.mpd?id=122&type=drm&token=9dd118f238a3feae61fb80f89b708cac
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/cn/242391/SNAPSHOT/xl/0" group-title="-🔴 LIVE EVENT VISION", 23Nov 19.55 WIB | LaLiga 2025/26• Real Oviedo vs Rayo Vallecano
-https://nextgenz.my.id/vplu$/play.mpd?id=122&type=dash&token=9dd118f238a3feae61fb80f89b708cac
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/vplu$/play.mpd?id=122&type=drm&token=9dd118f238a3feae61fb80f89b708cac
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/cn/242357/SNAPSHOT/xl/0" group-title="-🔴 LIVE EVENT VISION", 23Nov 22.10 WIB | LaLiga 2025/26• Real Betis vs Girona
-https://nextgenz.my.id/vplu$/play.mpd?id=122&type=dash&token=9dd118f238a3feae61fb80f89b708cac
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/vplu$/play.mpd?id=122&type=drm&token=9dd118f238a3feae61fb80f89b708cac
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/cn/242365/SNAPSHOT/xl/0" group-title="-🔴 LIVE EVENT VISION", 24Nov 00.25 WIB | LaLiga 2025/26• Getafe vs Atletico Madrid
-https://nextgenz.my.id/vplu$/play.mpd?id=122&type=dash&token=9dd118f238a3feae61fb80f89b708cac
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/vplu$/play.mpd?id=124&type=drm&token=9dd118f238a3feae61fb80f89b708cac
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/cn/242329/SNAPSHOT/xl/0" group-title="-🔴 LIVE EVENT VISION", 24Nov 02.52 WIB | LaLiga 2 2025/26• Malaga vs Mirandes
-https://nextgenz.my.id/vplu$/play.mpd?id=124&type=dash&token=9dd118f238a3feae61fb80f89b708cac
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/vplu$/play.mpd?id=122&type=drm&token=9dd118f238a3feae61fb80f89b708cac
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/cn/242517/SNAPSHOT/xl/0" group-title="-🔴 LIVE EVENT VISION", 24Nov 02.55 WIB | LaLiga 2025/26• Espanyol vs Sevilla
-https://nextgenz.my.id/vplu$/play.mpd?id=122&type=dash&token=9dd118f238a3feae61fb80f89b708cac
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/vplu$/play.mpd?id=124&type=drm&token=9dd118f238a3feae61fb80f89b708cac
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/vplu$/play.mpd?id=124&type=drm&token=3a3d08a9216f1302e7cec35298bf7653
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/cn/242351/SNAPSHOT/xl/0" group-title="-🔴 LIVE EVENT VISION", 25Nov 02.22 WIB | LaLiga 2 2025/26• Real Sociedad B vs Valladolid
-https://nextgenz.my.id/vplu$/play.mpd?id=124&type=dash&token=9dd118f238a3feae61fb80f89b708cac
+https://nextgenz.my.id/vplu$/play.mpd?id=124&type=dash&token=3a3d08a9216f1302e7cec35298bf7653
 
 #EXTINF:-1 group-title="-🔴EVENT LIGA 1 BACKUP" tvg-id="mncsports3.id" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/21/2024/11/liga-2-ilustrasi-peg_6587e36.jpg", PEGADAIAN LIGA 2
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
@@ -1415,530 +1507,6 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/39.png" group-title="-🔴 UPCOMING",Arsenal vs Tottenham | Premier League | Start WIB: 2025-11-23 23:30:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=Sky-Sports-Main-Event
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/39.png" group-title="-🔴 UPCOMING",Arsenal vs Tottenham | Premier League | Start WIB: 2025-11-23 23:30:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=Sky-Sports-Main-Event-BU
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/39.png" group-title="-🔴 UPCOMING",Arsenal vs Tottenham | Premier League | Start WIB: 2025-11-23 23:30:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=Sky-Sports-Premier-League
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/39.png" group-title="-🔴 UPCOMING",Arsenal vs Tottenham | Premier League | Start WIB: 2025-11-23 23:30:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=Sky-Sports-Premier-League-BU
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/140.png" group-title="-🔴 UPCOMING",Getafe vs Atletico Madrid | La Liga | Start WIB: 2025-11-24 00:30:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=Premier-Sports-1
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/140.png" group-title="-🔴 UPCOMING",Getafe vs Atletico Madrid | La Liga | Start WIB: 2025-11-24 00:30:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=ESPN-Deportes
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/140.png" group-title="-🔴 UPCOMING",Getafe vs Atletico Madrid | La Liga | Start WIB: 2025-11-24 00:30:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=ESPN-Deportes-BU
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/307.png" group-title="-🔴 UPCOMING",Al-Nassr vs Al Khaleej Saihat | Pro League | Start WIB: 2025-11-24 00:30:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/135.png" group-title="-🔴 UPCOMING",Inter vs AC Milan | Serie A | Start WIB: 2025-11-24 02:45:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=TNT-Sports-1
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/135.png" group-title="-🔴 UPCOMING",Inter vs AC Milan | Serie A | Start WIB: 2025-11-24 02:45:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=TNT-Sports-1-BU
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/140.png" group-title="-🔴 UPCOMING",Elche vs Real Madrid | La Liga | Start WIB: 2025-11-24 03:00:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=Premier-Sports-1
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/140.png" group-title="-🔴 UPCOMING",Elche vs Real Madrid | La Liga | Start WIB: 2025-11-24 03:00:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=ESPN-Deportes
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/140.png" group-title="-🔴 UPCOMING",Elche vs Real Madrid | La Liga | Start WIB: 2025-11-24 03:00:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=ESPN-Deportes-BU
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/39.png" group-title="-🔴 UPCOMING",Manchester United vs Everton | Premier League | Start WIB: 2025-11-25 03:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/2.png" group-title="-🔴 UPCOMING",Ajax vs Benfica | UEFA Champions League | Start WIB: 2025-11-26 00:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/2.png" group-title="-🔴 UPCOMING",Galatasaray vs Union St. Gilloise | UEFA Champions League | Start WIB: 2025-11-26 00:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/2.png" group-title="-🔴 UPCOMING",Chelsea vs Barcelona | UEFA Champions League | Start WIB: 2025-11-26 03:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/2.png" group-title="-🔴 UPCOMING",Napoli vs Qarabag | UEFA Champions League | Start WIB: 2025-11-26 03:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/2.png" group-title="-🔴 UPCOMING",Bodo/Glimt vs Juventus | UEFA Champions League | Start WIB: 2025-11-26 03:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/2.png" group-title="-🔴 UPCOMING",Borussia Dortmund vs Villarreal | UEFA Champions League | Start WIB: 2025-11-26 03:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/2.png" group-title="-🔴 UPCOMING",Manchester City vs Bayer Leverkusen | UEFA Champions League | Start WIB: 2025-11-26 03:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/2.png" group-title="-🔴 UPCOMING",Marseille vs Newcastle | UEFA Champions League | Start WIB: 2025-11-26 03:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/2.png" group-title="-🔴 UPCOMING",Slavia Praha vs Athletic Club | UEFA Champions League | Start WIB: 2025-11-26 03:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/2.png" group-title="-🔴 UPCOMING",Pafos vs Monaco | UEFA Champions League | Start WIB: 2025-11-27 00:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/2.png" group-title="-🔴 UPCOMING",FC Copenhagen vs Kairat Almaty | UEFA Champions League | Start WIB: 2025-11-27 00:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/2.png" group-title="-🔴 UPCOMING",Eintracht Frankfurt vs Atalanta | UEFA Champions League | Start WIB: 2025-11-27 03:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/2.png" group-title="-🔴 UPCOMING",Sporting CP vs Club Brugge KV | UEFA Champions League | Start WIB: 2025-11-27 03:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/2.png" group-title="-🔴 UPCOMING",Arsenal vs Bayern Munich | UEFA Champions League | Start WIB: 2025-11-27 03:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/2.png" group-title="-🔴 UPCOMING",Paris Saint Germain vs Tottenham | UEFA Champions League | Start WIB: 2025-11-27 03:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/2.png" group-title="-🔴 UPCOMING",Liverpool vs PSV Eindhoven | UEFA Champions League | Start WIB: 2025-11-27 03:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/2.png" group-title="-🔴 UPCOMING",Atletico Madrid vs Inter | UEFA Champions League | Start WIB: 2025-11-27 03:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/2.png" group-title="-🔴 UPCOMING",Olympiakos Piraeus vs Real Madrid | UEFA Champions League | Start WIB: 2025-11-27 03:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/78.png" group-title="-🔴 UPCOMING",Bayern München vs FC St. Pauli | Bundesliga | Start WIB: 2025-11-29 21:30:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/39.png" group-title="-🔴 UPCOMING",Manchester City vs Leeds | Premier League | Start WIB: 2025-11-29 22:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/140.png" group-title="-🔴 UPCOMING",Barcelona vs Alaves | La Liga | Start WIB: 2025-11-29 22:15:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/61.png" group-title="-🔴 UPCOMING",Monaco vs Paris Saint Germain | Ligue 1 | Start WIB: 2025-11-29 23:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/135.png" group-title="-🔴 UPCOMING",Juventus vs Cagliari | Serie A | Start WIB: 2025-11-30 00:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/78.png" group-title="-🔴 UPCOMING",Bayer Leverkusen vs Borussia Dortmund | Bundesliga | Start WIB: 2025-11-30 00:30:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/140.png" group-title="-🔴 UPCOMING",Levante vs Athletic Club | La Liga | Start WIB: 2025-11-30 00:30:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/94.png" group-title="-🔴 UPCOMING",Nacional vs Benfica | Primeira Liga | Start WIB: 2025-11-30 01:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/135.png" group-title="-🔴 UPCOMING",AC Milan vs Lazio | Serie A | Start WIB: 2025-11-30 02:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/39.png" group-title="-🔴 UPCOMING",Tottenham vs Fulham | Premier League | Start WIB: 2025-11-30 03:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/140.png" group-title="-🔴 UPCOMING",Atletico Madrid vs Oviedo | La Liga | Start WIB: 2025-11-30 03:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/61.png" group-title="-🔴 UPCOMING",Marseille vs Toulouse | Ligue 1 | Start WIB: 2025-11-30 03:05:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/88.png" group-title="-🔴 UPCOMING",PSV Eindhoven vs FC Volendam | Eredivisie | Start WIB: 2025-11-30 18:15:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/39.png" group-title="-🔴 UPCOMING",Crystal Palace vs Manchester United | Premier League | Start WIB: 2025-11-30 19:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/144.png" group-title="-🔴 UPCOMING",Club Brugge KV vs Antwerp | Jupiler Pro League | Start WIB: 2025-11-30 19:30:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/140.png" group-title="-🔴 UPCOMING",Real Sociedad vs Villarreal | La Liga | Start WIB: 2025-11-30 20:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/135.png" group-title="-🔴 UPCOMING",Pisa vs Inter | Serie A | Start WIB: 2025-11-30 21:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/39.png" group-title="-🔴 UPCOMING",West Ham vs Liverpool | Premier League | Start WIB: 2025-11-30 21:05:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/39.png" group-title="-🔴 UPCOMING",Chelsea vs Arsenal | Premier League | Start WIB: 2025-11-30 23:30:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/78.png" group-title="-🔴 UPCOMING",Eintracht Frankfurt vs VfL Wolfsburg | Bundesliga | Start WIB: 2025-11-30 23:30:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/135.png" group-title="-🔴 UPCOMING",Atalanta vs Fiorentina | Serie A | Start WIB: 2025-12-01 00:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/144.png" group-title="-🔴 UPCOMING",Anderlecht vs Union St. Gilloise | Jupiler Pro League | Start WIB: 2025-12-01 00:30:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/94.png" group-title="-🔴 UPCOMING",Sporting CP vs Estrela | Primeira Liga | Start WIB: 2025-12-01 01:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/88.png" group-title="-🔴 UPCOMING",Ajax vs Groningen | Eredivisie | Start WIB: 2025-12-01 02:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/135.png" group-title="-🔴 UPCOMING",AS Roma vs Napoli | Serie A | Start WIB: 2025-12-01 02:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/140.png" group-title="-🔴 UPCOMING",Girona vs Real Madrid | La Liga | Start WIB: 2025-12-01 03:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/39.png" group-title="-🔴 UPCOMING",Fulham vs Manchester City | Premier League | Start WIB: 2025-12-03 02:30:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/140.png" group-title="-🔴 UPCOMING",Barcelona vs Atletico Madrid | La Liga | Start WIB: 2025-12-03 03:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/39.png" group-title="-🔴 UPCOMING",Newcastle vs Tottenham | Premier League | Start WIB: 2025-12-03 03:15:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/137.png" group-title="-🔴 UPCOMING",Lazio vs AC Milan | Coppa Italia | Start WIB: 2025-12-04 00:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/88.png" group-title="-🔴 Event Liga Tim EROPA",Feyenoord vs NEC Nijmegen | Eredivisie | Start WIB: 2025-11-23 20:30:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=Premier-Sports-2
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/88.png" group-title="-🔴 Event Liga Tim EROPA",Feyenoord vs NEC Nijmegen | Eredivisie | Start WIB: 2025-11-23 20:30:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=EPL-Liverpool-BU
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/39.png" group-title="-🔴 Event Liga Tim EROPA",Leeds vs Aston Villa | Premier League | Start WIB: 2025-11-23 21:00:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=Sky-Sports-Main-Event
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/39.png" group-title="-🔴 Event Liga Tim EROPA",Leeds vs Aston Villa | Premier League | Start WIB: 2025-11-23 21:00:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=Sky-Sports-Main-Event-BU
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/39.png" group-title="-🔴 Event Liga Tim EROPA",Leeds vs Aston Villa | Premier League | Start WIB: 2025-11-23 21:00:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=Sky-Sports-Premier-League
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/39.png" group-title="-🔴 Event Liga Tim EROPA",Leeds vs Aston Villa | Premier League | Start WIB: 2025-11-23 21:00:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=Sky-Sports-Premier-League-BU
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/135.png" group-title="-🔴 Event Liga Tim EROPA",Cremonese vs AS Roma | Serie A | Start WIB: 2025-11-23 21:00:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=TNT-Sports-2
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/135.png" group-title="-🔴 Event Liga Tim EROPA",Cremonese vs AS Roma | Serie A | Start WIB: 2025-11-23 21:00:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=TNT-Sports-2-BU
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/61.png" group-title="-🔴 Event Liga Tim EROPA",Auxerre vs Lyon | Ligue 1 | Start WIB: 2025-11-23 21:00:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=Bein-Sports-USA
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/61.png" group-title="-🔴 Event Liga Tim EROPA",Auxerre vs Lyon | Ligue 1 | Start WIB: 2025-11-23 21:00:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=BEIN-SPORT-USA-BU
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/78.png" group-title="-🔴 Event Liga Tim EROPA",RB Leipzig vs Werder Bremen | Bundesliga | Start WIB: 2025-11-23 21:30:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=DAZN-CA-13
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/78.png" group-title="-🔴 Event Liga Tim EROPA",RB Leipzig vs Werder Bremen | Bundesliga | Start WIB: 2025-11-23 21:30:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=DAZN-CA-13-BU
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/179.png" group-title="-🔴 Event Liga Tim EROPA",Aberdeen vs Heart OF Midlothian | Premiership | Start WIB: 2025-11-23 22:00:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=Sky-Sports-Football
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/179.png" group-title="-🔴 Event Liga Tim EROPA",Aberdeen vs Heart OF Midlothian | Premiership | Start WIB: 2025-11-23 22:00:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=Sky-Sports-Football-BU
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/140.png" group-title="-🔴 Event Liga Tim EROPA",Real Betis vs Girona | La Liga | Start WIB: 2025-11-23 22:15:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=Premier-Sports-1
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/140.png" group-title="-🔴 Event Liga Tim EROPA",Real Betis vs Girona | La Liga | Start WIB: 2025-11-23 22:15:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=ESPN-Deportes
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/79.png" group-title="-🔴 Event Liga Tim EROPA",1. FC Nürnberg vs Arminia Bielefeld | 2. Bundesliga | Start WIB: 2025-11-23 19:30:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=Sky-Bundesliga-4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/79.png" group-title="-🔴 Event Liga Tim EROPA",1. FC Kaiserslautern vs Holstein Kiel | 2. Bundesliga | Start WIB: 2025-11-23 19:30:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=Sky-Bundesliga-2
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/79.png" group-title="-🔴 Event Liga Tim EROPA",Karlsruher SC vs SV Elversberg | 2. Bundesliga | Start WIB: 2025-11-23 19:30:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=Sky-Bundesliga-3
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/140.png" group-title="-🔴 Event Liga Tim EROPA",Oviedo vs Rayo Vallecano | La Liga | Start WIB: 2025-11-23 20:00:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=Premier-Sports-1
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/140.png" group-title="-🔴 Event Liga Tim EROPA",Oviedo vs Rayo Vallecano | La Liga | Start WIB: 2025-11-23 20:00:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=ESPN-Deportes
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/140.png" group-title="-🔴 Event Liga Tim EROPA",Oviedo vs Rayo Vallecano | La Liga | Start WIB: 2025-11-23 20:00:00
-#EXTVLCOPT:http-referrer=https://new-player.lioncdn.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
-https://colloriptvpro.biz.id/bee/lalat.m3u8?id=ESPN-Deportes-BU
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/61.png" group-title="-🔴 UPCOMING",Nantes vs Lorient | Ligue 1 | Start WIB: 2025-11-23 23:15:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/61.png" group-title="-🔴 UPCOMING",Toulouse vs Angers | Ligue 1 | Start WIB: 2025-11-23 23:15:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/61.png" group-title="-🔴 UPCOMING",Stade Brestois 29 vs Metz | Ligue 1 | Start WIB: 2025-11-23 23:15:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/78.png" group-title="-🔴 UPCOMING",FC St. Pauli vs Union Berlin | Bundesliga | Start WIB: 2025-11-23 23:30:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/135.png" group-title="-🔴 UPCOMING",Lazio vs Lecce | Serie A | Start WIB: 2025-11-24 00:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/144.png" group-title="-🔴 UPCOMING",RAAL La Louvière vs Anderlecht | Jupiler Pro League | Start WIB: 2025-11-24 00:30:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/61.png" group-title="-🔴 UPCOMING",Lille vs Paris FC | Ligue 1 | Start WIB: 2025-11-24 02:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/141.png" group-title="-🔴 UPCOMING",Malaga vs Mirandes | Segunda División | Start WIB: 2025-11-24 03:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/253.png" group-title="-🔴 UPCOMING",FC Cincinnati vs Inter Miami | Major League Soccer | Start WIB: 2025-11-24 05:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/253.png" group-title="-🔴 UPCOMING",Philadelphia Union vs New York City FC | Major League Soccer | Start WIB: 2025-11-24 07:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/17.png" group-title="-🔴 UPCOMING",Nasaf vs Tractor Sazi | AFC Champions League | Start WIB: 2025-11-24 20:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/17.png" group-title="-🔴 UPCOMING",Shabab Al Ahli Dubai vs Al-Gharafa | AFC Champions League | Start WIB: 2025-11-24 23:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/17.png" group-title="-🔴 UPCOMING",Al-Duhail SC vs Al-Ittihad FC | AFC Champions League | Start WIB: 2025-11-24 23:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/135.png" group-title="-🔴 UPCOMING",Torino vs Como | Serie A | Start WIB: 2025-11-25 00:30:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/17.png" group-title="-🔴 UPCOMING",Al-Ahli Jeddah vs Sharjah FC | AFC Champions League | Start WIB: 2025-11-25 01:15:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/89.png" group-title="-🔴 UPCOMING",Jong Utrecht vs Den Bosch | Eerste Divisie | Start WIB: 2025-11-25 02:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/89.png" group-title="-🔴 UPCOMING",Helmond Sport vs Jong Ajax | Eerste Divisie | Start WIB: 2025-11-25 02:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/89.png" group-title="-🔴 UPCOMING",Almere City FC vs VVV Venlo | Eerste Divisie | Start WIB: 2025-11-25 02:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/89.png" group-title="-🔴 UPCOMING",Jong AZ vs FC OSS | Eerste Divisie | Start WIB: 2025-11-25 02:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/136.png" group-title="-🔴 UPCOMING",Sampdoria vs Juve Stabia | Serie B | Start WIB: 2025-11-25 02:30:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/141.png" group-title="-🔴 UPCOMING",Real Sociedad II vs Valladolid | Segunda División | Start WIB: 2025-11-25 02:30:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/135.png" group-title="-🔴 UPCOMING",Sassuolo vs Pisa | Serie A | Start WIB: 2025-11-25 02:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/140.png" group-title="-🔴 UPCOMING",Espanyol vs Sevilla | La Liga | Start WIB: 2025-11-25 03:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/253.png" group-title="-🔴 UPCOMING",San Diego vs Minnesota United FC | Major League Soccer | Start WIB: 2025-11-25 10:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/17.png" group-title="-🔴 UPCOMING",Melbourne City vs Johor Darul Takzim FC | AFC Champions League | Start WIB: 2025-11-25 14:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/17.png" group-title="-🔴 UPCOMING",Gangwon FC vs Machida Zelvia | AFC Champions League | Start WIB: 2025-11-25 17:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/17.png" group-title="-🔴 UPCOMING",SHANGHAI SIPG vs FC Seoul | AFC Champions League | Start WIB: 2025-11-25 17:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/17.png" group-title="-🔴 UPCOMING",Chengdu Better City vs Sanfrecce Hiroshima | AFC Champions League | Start WIB: 2025-11-25 19:15:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/14.png" group-title="-🔴 UPCOMING",Chelsea U19 vs Barcelona U19 | UEFA Youth League | Start WIB: 2025-11-25 20:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/14.png" group-title="-🔴 UPCOMING",Borussia Dortmund U19 vs Villarreal U19 | UEFA Youth League | Start WIB: 2025-11-25 22:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/14.png" group-title="-🔴 UPCOMING",Galatasaray U19 vs R. Union SG U19 | UEFA Youth League | Start WIB: 2025-11-25 22:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/14.png" group-title="-🔴 UPCOMING",Jindřichův Hradec vs Athletic U19 | UEFA Youth League | Start WIB: 2025-11-25 22:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/14.png" group-title="-🔴 UPCOMING",Ajax U19 vs Benfica U19 | UEFA Youth League | Start WIB: 2025-11-25 22:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/14.png" group-title="-🔴 UPCOMING",Manchester City U19 vs Bayer Leverkusen U19 | UEFA Youth League | Start WIB: 2025-11-25 22:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/14.png" group-title="-🔴 UPCOMING",Napoli U19 vs Qarabağ U19 | UEFA Youth League | Start WIB: 2025-11-25 22:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/14.png" group-title="-🔴 UPCOMING",Bodø / Glimt U19 vs Juventus U19 | UEFA Youth League | Start WIB: 2025-11-25 22:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/14.png" group-title="-🔴 UPCOMING",Olympique Marseille U19 vs Newcastle United U19 | UEFA Youth League | Start WIB: 2025-11-25 22:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/17.png" group-title="-🔴 UPCOMING",Al Wahda FC vs Al Sadd | AFC Champions League | Start WIB: 2025-11-25 23:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/17.png" group-title="-🔴 UPCOMING",Al-Hilal Saudi FC vs Al Shorta | AFC Champions League | Start WIB: 2025-11-26 01:15:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/89.png" group-title="-🔴 UPCOMING",ADO Den Haag vs De Graafschap | Eerste Divisie | Start WIB: 2025-11-26 02:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/89.png" group-title="-🔴 UPCOMING",Vitesse vs Jong PSV | Eerste Divisie | Start WIB: 2025-11-26 02:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/89.png" group-title="-🔴 UPCOMING",Roda vs Dordrecht | Eerste Divisie | Start WIB: 2025-11-26 02:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/89.png" group-title="-🔴 UPCOMING",Waalwijk vs MVV | Eerste Divisie | Start WIB: 2025-11-26 02:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/41.png" group-title="-🔴 UPCOMING",Luton vs Huddersfield | League One | Start WIB: 2025-11-26 02:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/41.png" group-title="-🔴 UPCOMING",Peterborough vs Stevenage | League One | Start WIB: 2025-11-26 02:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/179.png" group-title="-🔴 UPCOMING",Motherwell vs Hibernian | Premiership | Start WIB: 2025-11-26 02:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/40.png" group-title="-🔴 UPCOMING",Hull City vs Ipswich | Championship | Start WIB: 2025-11-26 02:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/40.png" group-title="-🔴 UPCOMING",Watford vs Preston | Championship | Start WIB: 2025-11-26 02:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/40.png" group-title="-🔴 UPCOMING",Middlesbrough vs Coventry | Championship | Start WIB: 2025-11-26 02:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/40.png" group-title="-🔴 UPCOMING",Norwich vs Oxford United | Championship | Start WIB: 2025-11-26 02:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/40.png" group-title="-🔴 UPCOMING",Stoke City vs Charlton | Championship | Start WIB: 2025-11-26 02:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/40.png" group-title="-🔴 UPCOMING",Swansea vs Derby | Championship | Start WIB: 2025-11-26 02:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/40.png" group-title="-🔴 UPCOMING",Southampton vs Leicester | Championship | Start WIB: 2025-11-26 03:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/17.png" group-title="-🔴 UPCOMING",Ulsan Hyundai FC vs Buriram United | AFC Champions League | Start WIB: 2025-11-26 17:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/17.png" group-title="-🔴 UPCOMING",Shanghai Shenhua vs Vissel Kobe | AFC Champions League | Start WIB: 2025-11-26 19:15:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/14.png" group-title="-🔴 UPCOMING",Eintracht Frankf U19 vs Atalanta U19 | UEFA Youth League | Start WIB: 2025-11-26 20:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/14.png" group-title="-🔴 UPCOMING",Olympiakos Piraeus U19 vs Real Madrid U19 | UEFA Youth League | Start WIB: 2025-11-26 22:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/14.png" group-title="-🔴 UPCOMING",Atlético Madrid U19 vs Internazionale U19 | UEFA Youth League | Start WIB: 2025-11-26 22:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/14.png" group-title="-🔴 UPCOMING",Liverpool U19 vs PSV U19 | UEFA Youth League | Start WIB: 2025-11-26 22:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/14.png" group-title="-🔴 UPCOMING",Sporting CP U19 vs Club Brugge U19 | UEFA Youth League | Start WIB: 2025-11-26 22:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/14.png" group-title="-🔴 UPCOMING",København U19 vs Kairat U19 | UEFA Youth League | Start WIB: 2025-11-26 22:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/14.png" group-title="-🔴 UPCOMING",PSG U19 vs Tottenham Hotspur U19 | UEFA Youth League | Start WIB: 2025-11-26 22:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/14.png" group-title="-🔴 UPCOMING",Arsenal U19 vs Bayern München U19 | UEFA Youth League | Start WIB: 2025-11-26 22:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/14.png" group-title="-🔴 UPCOMING",Pafos U19 vs Monaco  U19 | UEFA Youth League | Start WIB: 2025-11-26 22:00:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/40.png" group-title="-🔴 UPCOMING",Blackburn vs QPR | Championship | Start WIB: 2025-11-27 02:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/40.png" group-title="-🔴 UPCOMING",Sheffield Utd vs Portsmouth | Championship | Start WIB: 2025-11-27 02:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/40.png" group-title="-🔴 UPCOMING",Millwall vs Sheffield Wednesday | Championship | Start WIB: 2025-11-27 02:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
-#EXTINF:-1 tvg-logo="https://i0.wp.com/static.techor.sbs//football/leagues/40.png" group-title="-🔴 UPCOMING",Wrexham vs Bristol City | Championship | Start WIB: 2025-11-27 02:45:00
-https://static.vecteezy.com/system/resources/previews/001/623/833/mp4/movie-trailer-coming-soon-background-video.mp4
-
 #EXTINF:-1 group-logo="" group-title="CHANNEL | SPORT PREMIUM" tvg-id="" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-l.png",Sportstars
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
@@ -2042,7 +1610,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index
 #EXTINF:-1 tvg-id="tnt5uk50" tvg-name="TNT" tvg-logo="https://thumbor.prod.vidiocdn.com/M8pDa0IRTOTi7poAEWslAmwItbg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg" group-title="CHANNEL |  MOTOGP & F1",SPOTV 2 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
-https://soft-youtiao-cd9933.netlify.app/eyJkYXRhIjoic3RyZWFtX2FjY2VzcyIsInRpbWVzdGFtcCI6MTc2MzkxMTQzMDg1NCwiaGFzaCI6ImZlNThiYmFmMTU5MjZkMzkzYzcxOGM5ZDM4Yjc2NTQzYWZiZTg5YWVkMmZlMzE0MGFjZjI0ODZkNGY5OTYyMzgifQ==/dash-wv/linear/5079/default_primary.mpd
+https://soft-youtiao-cd9933.netlify.app/eyJkYXRhIjoic3RyZWFtX2FjY2VzcyIsInRpbWVzdGFtcCI6MTc2Mzk3MTkzMzA0NiwiaGFzaCI6IjUwMmRiNTA0OTNlZTk4MWY5MWU2MTFjOTY0MWZmOTE4MmVhZWM4NTdiMzRmNzQ3NGUyZDlkZGMyOTUyZjc0NjMifQ==/dash-wv/linear/5079/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f51f3dc6313ac8bc668e2d9d1c04dfa:74bc63e5a193454a91ca494975db33f9
@@ -2305,7 +1873,7 @@ https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-01-prd-r-v2/dash-c
 #EXTINF:-1 tvg-id="tnt5uk50" tvg-name="TNT" tvg-logo="http://103.127.132.205/wiki/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="CHANNEL | SPORT PREMIUM",Premier Sports Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
-https://soft-youtiao-cd9933.netlify.app/eyJkYXRhIjoic3RyZWFtX2FjY2VzcyIsInRpbWVzdGFtcCI6MTc2MzkxMTQzMDg1NCwiaGFzaCI6ImZlNThiYmFmMTU5MjZkMzkzYzcxOGM5ZDM4Yjc2NTQzYWZiZTg5YWVkMmZlMzE0MGFjZjI0ODZkNGY5OTYyMzgifQ==/dash-wv/linear/2601/default_primary.mpd
+https://soft-youtiao-cd9933.netlify.app/eyJkYXRhIjoic3RyZWFtX2FjY2VzcyIsInRpbWVzdGFtcCI6MTc2Mzk3MTkzMzA0NiwiaGFzaCI6IjUwMmRiNTA0OTNlZTk4MWY5MWU2MTFjOTY0MWZmOTE4MmVhZWM4NTdiMzRmNzQ3NGUyZDlkZGMyOTUyZjc0NjMifQ==/dash-wv/linear/2601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="ap1sr" tvg-name="Premier Sports" tvg-logo="http://103.127.132.205/wiki/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="CHANNEL | SPORT PREMIUM",Premier Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2336,26 +1904,6 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/ph.php?id=294897&type=drm
-#EXTINF:-1 tvg-logo="https://img.dge-prod.dicelaboratory.com/thumbnails/294897/original/latest.jpg" group-title="-🔴 LIVE EVENT",🔴 LIVE: Leeds - Aston Villa
-http://spacetv.my.id/experimen/master.mpd?id=294897&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/ph.php?id=295106&type=drm
-#EXTINF:-1 tvg-logo="https://img.dge-prod.dicelaboratory.com/thumbnails/295106/original/latest.jpg" group-title="-🔴 LIVE EVENT",🔴 LIVE: Tofas - Anadolu Efes
-http://spacetv.my.id/experimen/master.mpd?id=295106&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/ph.php?id=294859&type=drm
-#EXTINF:-1 tvg-logo="https://img.dge-prod.dicelaboratory.com/thumbnails/294859/original/latest.jpg" group-title="-🔴 LIVE EVENT",⏳ Arsenal - Tottenham - 23-11 23:30 WIB
-http://spacetv.my.id/experimen/master.mpd?id=294859&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/ph.php?id=294831&type=drm
-#EXTINF:-1 tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2025/11/14131303-qnrbd5cyamvfh7g6.png" group-title="-🔴 LIVE EVENT",⏳ Getafe - Atletico Madrid - 24-11 00:30 WIB
-http://spacetv.my.id/experimen/master.mpd?id=294831&type=dash|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://spacetv.my.id/experimen/ph.php?id=294860&type=drm
@@ -2897,420 +2445,420 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8|User-Agent=Mozilla/5.0 (W
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be26e4325724/df2bd1819bb74e2ea38e40ebf9d60e14.png" group-title="CHANNEL | CUBMU TRANVISION",Bioskop Indonesia
-https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd?sign=e2afb67fa9cbeaaf649007b9aea07bee&time=1763911370
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd?sign=d44865d4f7a103dde856c01fa9214186&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857fe540a1018060ae0aa740bb/39e0cbc9c8e0477591d7993555146bd6.jpg" group-title="CHANNEL | CUBMU TRANVISION",Movies News
-https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd?sign=75ba17221c71693a1f369c60bfaeb139&time=1763911370
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729cc464d33c0b/manifest.mpd?sign=29301247ed863ea424d2231601501cf3&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6858262bb8001827b64d0742be1/e00b58b6aaa1455c82d8980c3f90c98c.jpg" group-title="CHANNEL | CUBMU TRANVISION",Cartoon TV Premium
-https://cdnjktbpid02.transvision.co.id/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd?sign=d31651d6086338339570ba3c150d3879&time=1763911370
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd?sign=efac0ee1382a297b176106b78d1072c1&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6858262bb8001827b65fa882be2/1aa82a2c32ca49698d23ddeec560c48c.jpg" group-title="CHANNEL | CUBMU TRANVISION",Cartoon TV
-https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd?sign=316f721ce0387b631f889d8750838321&time=1763911370
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd?sign=764d5dd4f874105e144a15b95f120efc&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be1f09275720/cdf3a2185da14403a42ca58f74f261c0.png" group-title="CHANNEL | CUBMU TRANVISION",Dunia Anak
-https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd?sign=b0ce4a38d4cc05968870e5ece808b5b7&time=1763911370
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd?sign=82750c520f7240f344ffb029a7d0b409&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685840ff04901846166f4d93e5e/af61929b5f3b419da7e3d407ce601dbb.jpg" group-title="CHANNEL | CUBMU TRANVISION",Cartoon TV Classics
-https://cdnjktbpid02.transvision.co.id/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd?sign=3ce3369b345d62105c06b2e92e5beb59&time=1763911370
+https://cdnjktbpid02.transvision.co.id/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd?sign=b6fa443cb7285dac11a5ee385b717dc0&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6858262bb8001827b6764522be3/982842a26aea41cb980ece08814c337b.jpg" group-title="CHANNEL | CUBMU TRANVISION",Knowledge+
-https://cdnjktbpid02.transvision.co.id/FC-125/TRV-Knowledge/manifest.mpd?sign=08e44b43da8e5b35a937e5a3b2232a77&time=1763911370
+https://cdnjktbpid02.transvision.co.id/FC-125/TRV-Knowledge/manifest.mpd?sign=be0ea9a40dfc1ec0396df70913ee1915&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be2463495723/9d3f40f80c0340f58a26da2cf9303cc0.jpg" group-title="CHANNEL | CUBMU TRANVISION",CGTN Documentary
-https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729c86e3cf3bff/manifest.mpd?sign=f2359249d19a8ec8d5cece044a76c4f7&time=1763911370
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729c86e3cf3bff/manifest.mpd?sign=a54e5e0048e3ac0090c9c76a0feaaab7&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685910daca60191a8636d706700/9de75a26d8dc40abbe73993699da1a3e.jpg" group-title="CHANNEL | CUBMU TRANVISION",Channel Jowo
-https://cdnjktbpid02.transvision.co.id/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd?sign=e7df6a9944a9eadf5c04b11f00378c9b&time=1763911370
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd?sign=4aaa35f45cc095f2a340341b1d563b44&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be292d655725/38d70128854b459b87ca947e19c982f8.png" group-title="CHANNEL | CUBMU TRANVISION",!nsert
-https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd?sign=e2819387052abe23356ce9c7c4675f3c&time=1763911370
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd?sign=d6c8f19115fedb7789e227d8485fd3cc&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be2db0a25728/1d04ef38955743af9ac051beba87b578.png" group-title="CHANNEL | CUBMU TRANVISION",Dunia Lain
-https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd?sign=3a572bc0d884bb8f800fe8fc4f7a133f&time=1763911370
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd?sign=1b78105d92929e3dd06956c9dfb6bf69&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857f48ecd2017f5e95744613e2/a1661944195a4892866518881010e2ef.png" group-title="CHANNEL | CUBMU TRANVISION",CCTV 4
-https://cdnjktbpid02.transvision.co.id/live/master/5/4028c685730a4243017317e334101575/manifest.mpd?sign=dbd6d0ce9de5095cf2671ca8d72a3c4a&time=1763911370
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c685730a4243017317e334101575/manifest.mpd?sign=bfe69001124a1c3041628ca56bf1e561&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be39494458d4/5f461fc9b75a46e8929a14e8c267c612.png" group-title="CHANNEL | CUBMU TRANVISION",TV5 Monde
-https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856c3db2cc016d0642d33e6d20/manifest.mpd?sign=fe88668ee83d540fa3455386ecaa65a9&time=1763911370
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856c3db2cc016d0642d33e6d20/manifest.mpd?sign=e99863f3974cf2bfccc0ff0311352c42&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685840ff04901846166123a3e5d/d6deb40598b2485793627e62c336070f.jpg" group-title="CHANNEL | CUBMU TRANVISION",One TV
-https://cdnjktbpid02.transvision.co.id/live/master/100/4028c685840ff049018455ff15294362/manifest.mpd?sign=b81f56b747c3aeb30b5525ec2c3f12f0&time=1763911370
+https://cdnjktbpid02.transvision.co.id/live/master/100/4028c685840ff049018455ff15294362/manifest.mpd?sign=4864ddfb732181667e31090a064a1fad&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857fe540a1018060aab83c40b9/1f60c0e2a14d4a26b0316f31aad41cbf.jpg" group-title="CHANNEL | CUBMU TRANVISION",Travel TV
-https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6857fe540a1018060aab83c40b9/manifest.mpd?sign=4ddcdc004c8d6dcc90b7c93905b7d6c6&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6857fe540a1018060aab83c40b9/manifest.mpd?sign=372dc33a3c222495f1fd17fc4ba6a44b&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be3daa5c58d6/073cb14d55e54ce58f028f2d74649f02.png" group-title="CHANNEL | CUBMU TRANVISION",Eat N Go
-https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd?sign=9ac68f5f9d6787b717b3039ce356b8cf&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd?sign=f9ca0cf5b9029624421e4f3e77387ab2&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857fe540a1018060ac364140ba/ce2a74e0b12149dd92e67d92281020d0.jpg" group-title="CHANNEL | CUBMU TRANVISION",Fashion TV
-https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd?sign=0149ebe62be56b5e7cffb383c31e2cd9&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd?sign=dcb35650b5f1f4695e7c71ea38feda5b&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6858262bb8001827b6a98a62be4/f62c0a99f8974641a4589ad7b757f8f3.jpg" group-title="CHANNEL | CUBMU TRANVISION",Cooking TV
-https://cdnjktbpid02.transvision.co.id/live/master/4/4028c68582449a2e0182597009c021ef/manifest.mpd?sign=d0645ba0a33b69db15bbe1c1ef51a48d&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c68582449a2e0182597009c021ef/manifest.mpd?sign=b703e5505692c5e07f322f37be532d22&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6858119921801816b5359d15e63/6dad5dffdfa845ba8387b8f2192b1ed5.jpg" group-title="CHANNEL | CUBMU TRANVISION",Gaming TV
-https://cdnjktbpid02.transvision.co.id/live/master/5/4028c6858119921801816b5359d15e63/manifest.mpd?sign=5be3433e3712d88bc21dd4b69c14ea15&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c6858119921801816b5359d15e63/manifest.mpd?sign=203503802ad13ff36369a53f2f864212&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6858f902547018fccae36ec12b0/0599e44bb5f542f78269679c54286ebe.jpg" group-title="CHANNEL | CUBMU TRANVISION",DENS Food Channel
-https://cdnjktbpid02.transvision.co.id/live/master/100/4028c6858ee73728018f052a2fbd6993/manifest.mpd?sign=69a4e29c58f00794d95787cccf7e1155&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/100/4028c6858ee73728018f052a2fbd6993/manifest.mpd?sign=02ccb948a0ae19fb70dbbc37726bd7d2&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6858f902547018fccb15a5212b1/21158a2d854d43ecaf53e0c60c10aa18.jpg" group-title="CHANNEL | CUBMU TRANVISION",DENS PLAY Channel
-https://cdnjktbpid02.transvision.co.id/live/master/100/4028c6858f902547018fccb15a5212b1/manifest.mpd?sign=73056fec047fcd9ee4c1d8b168346b86&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/100/4028c6858f902547018fccb15a5212b1/manifest.mpd?sign=632491fe9773d8b6b6ddeb674023f5dc&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857fe540a1018060b4163a40be/73b299fdfe2e44bba1fa0fe29d3e4d91.jpg" group-title="CHANNEL | CUBMU TRANVISION",SuperYacht TV
-https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd?sign=fbfef9e0a01f0cc35d3a96045b580ec5&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd?sign=2b236ed6d1328106204df2b1d8d2f3e9&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6858f902547018fccb23c8c12b2/a77aa9f00762427daaa96ee606d46f6e.jpg" group-title="CHANNEL | CUBMU TRANVISION",DENS ShowBiz
-https://cdnjktbpid02.transvision.co.id/live/master/100/4028c6858ee73728018f052ae48a6994/manifest.mpd?sign=5a2ffb74193a111fa7d4c70d7d37af2d&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/100/4028c6858ee73728018f052ae48a6994/manifest.mpd?sign=1a04d27ed81a7fd9d5b09302fe8f4976&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857e04fca5017ec528dc550e98/bca939f249ba4f6d8af93435d18d37a5.jpg" group-title="CHANNEL | CUBMU TRANVISION",Musik Indonesia
-https://cdnjktbpid02.transvision.co.id/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd?sign=6d128926ea6dbd191136d96f64204fa4&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd?sign=89aaa655c28090eb2cf8fdd080bd7d86&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685840ff0490184616d5ba53e65/4201fdcf9a0d47d5b5612ec3f732c9bd.jpg" group-title="CHANNEL | CUBMU TRANVISION",Song TV
-https://cdnjktbpid02.transvision.co.id/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd?sign=98a8a43082bb1b358cbd3bb70f08b7ca&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd?sign=0f0d49504ea08ade0428e730a9513a18&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be3b835358d5/83751a329db441d083a07f7e9dd02271.png" group-title="CHANNEL | CUBMU TRANVISION",ABC Australia
-https://cdnjktbpid02.transvision.co.id/live/master/1/4028c6856df6711d016e111c808d00a5/manifest.mpd?sign=c0fbd3319aba988dc40feff7c374740a&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/1/4028c6856df6711d016e111c808d00a5/manifest.mpd?sign=b9f9fc5d940a24b86f2d42c0e8ba67b2&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174bdfa7e13514f/1548202f64854965af774c877aa3b2b4.png" group-title="CHANNEL | CUBMU TRANVISION",CNA
-https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6856c3db2cc016d0640033e6d1f/manifest.mpd?sign=7974eeef668a9088012247d0c0057213&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6856c3db2cc016d0640033e6d1f/manifest.mpd?sign=54bb16d70942872abb115c2fa8f234e5&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174bdfe22ee5150/141ea9331d7d4312bca2491c742a3b01.png" group-title="CHANNEL | CUBMU TRANVISION",Al Jazeera
-https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856f08326c016f0dbdf70005f5/manifest.mpd?sign=7ae4b01bf3276b70b540662c9bd8d731&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856f08326c016f0dbdf70005f5/manifest.mpd?sign=a49dd28d86ce34047087c8349f43e817&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857e04fca5017f310a21613e4e/a809d067e38a464a90a0d89204a8a6d2.png" group-title="CHANNEL | CUBMU TRANVISION",Euronews
-https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6857e04fca5017f3100bab72abc/manifest.mpd?sign=4851b3baa45979935e4588fc443f6cf4&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c6857e04fca5017f3100bab72abc/manifest.mpd?sign=e41f734b81c562e3b6cb2ddfd0fe14c0&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be0c2f975152/d9c5005b9f4a4608a3d647ec7e335581.png" group-title="CHANNEL | CUBMU TRANVISION",France 24
-https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6856f08326c016f556faa7a31b6/manifest.mpd?sign=91d549f25d3ece769355795de94a0659&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6856f08326c016f556faa7a31b6/manifest.mpd?sign=fe833d26655d3b8b50e4a68f6af0235a&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be13661a571d/ef09e82b1b1d43d896d71a1cbbd6146d.jpg" group-title="CHANNEL | CUBMU TRANVISION",CGTN
-https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729c8468973bfe/manifest.mpd?sign=1052c4c60b3de6e23d4bda1bd2201ed3&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729c8468973bfe/manifest.mpd?sign=71dadbdedee6ce4063ffd35844528339&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be167d8a571e/7de95bc6b2744449ad5bf76bf8a98935.jpg" group-title="CHANNEL | CUBMU TRANVISION",Russia Today
-https://cdnjktbpid02.transvision.co.id/live/master/2/4028c68572841ba301729cea1be63c1b/manifest.mpd?sign=1b5754fcbb0ab19682361ca46692c9f7&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c68572841ba301729cea1be63c1b/manifest.mpd?sign=849ac34a73e4a723b9e24e39b75cada4&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be1c9566571f/5558eb5b72bd49a2a917c3a7e60449eb.png" group-title="CHANNEL | CUBMU TRANVISION",Arirang
-https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856fd0d66d01703417ea3a0901/manifest.mpd?sign=f04e3111a8efc89053d9452cbe54a87f&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856fd0d66d01703417ea3a0901/manifest.mpd?sign=3698423207b674c0a0319996430ed2c8&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857f48ecd2017f5e9c23f413e8/71cccc8985684c04808edf417b5ab89e.png" group-title="CHANNEL | CUBMU TRANVISION",Wion TV
-https://cdnjktbpid02.transvision.co.id/live/master/2/4028c68572841ba301729d434e393c21/manifest.mpd?sign=17023cbbdc40552037aa3e5755a49529&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c68572841ba301729d434e393c21/manifest.mpd?sign=47dac84e91b902d9b7e36d3d7868932a&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574f658b101750641670b540e/dbdafb9c7d1d4f9695059cd544f6f323.png" group-title="CHANNEL | CUBMU TRANVISION",Al Quran Al Kareem
-https://cdnjktbpid02.transvision.co.id/live/master/3/4028c685730a424301731849249d1577/manifest.mpd?sign=12d5afac09cf66026718e98dbc9d86ab&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c685730a424301731849249d1577/manifest.mpd?sign=5d78c41cfad2a3fa2d519ce9470f8bc2&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574f658b1017506651f835414/f0da8399b6474e2287b0c44de8cdca8b.jpg" group-title="CHANNEL | CUBMU TRANVISION",tv Mu
-https://cdnjktbpid02.transvision.co.id/live/master/2/4028c68572841ba301729ce8f25d3c1a/manifest.mpd?sign=69446486e8ec856b16a40261131bda00&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c68572841ba301729ce8f25d3c1a/manifest.mpd?sign=c74c292094850850967cb9793f28f414&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574f658b101750667e76e5415/0c3849b964b943c888c667104596ff7b.jpg" group-title="CHANNEL | CUBMU TRANVISION",TV9
-https://cdnjktbpid02.transvision.co.id/live/master/5/4028c685730a4243017321f12b4d2d08/manifest.mpd?sign=52de051279cab70baf2334149c0468ad&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c685730a4243017321f12b4d2d08/manifest.mpd?sign=ed44b23e533049b669bc305d81fec173&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68588e2da5a01892e47e9d64b5e/8091ca0383df4ad89345991012dbc4d3.jpg" group-title="CHANNEL | CUBMU TRANVISION",Nabawi TV
-https://cdnjktbpid02.transvision.co.id/live/master/2/4028c68588e2da5a01892e3755c046bf/manifest.mpd?sign=5366320704e9dcf1b94453f1d688732c&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c68588e2da5a01892e3755c046bf/manifest.mpd?sign=1edf71a33ace4f7b30eb697bbd91adb7&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68598610fad0198f5b2f3694a60/9478019d293a4cabb697fea029a38f92.jpg" group-title="CHANNEL | CUBMU TRANVISION",DayStar
-https://cdnjktbpid02.transvision.co.id/live/master/100/4028c68598610fad0198f5ac5af94a48/manifest.mpd?sign=abe5208279e74a791669ebf9b80d47a1&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/100/4028c68598610fad0198f5ac5af94a48/manifest.mpd?sign=5053a7397ff8a71dd42966acbfe5a617&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be5a48505902/c86c1884dc50452aae2be2f0fd15d78f.jpg" group-title="CHANNEL | CUBMU TRANVISION",DAAI TV
-https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729cbde4783c06/manifest.mpd?sign=16b2d2c72e526d3044d6a0892d558586&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729cbde4783c06/manifest.mpd?sign=b28cefc3067de8561dfe487d278b38c0&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574f658b1017506741c665418/f37dcbd1fbf445e3a9900537f1778f63.jpg" group-title="CHANNEL | CUBMU TRANVISION",Pijar TV
-https://cdnjktbpid02.transvision.co.id/live/master/3/4028c685730a4243017321f355172d0c/manifest.mpd?sign=0541951cf1befe4b854f40a086b66003&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c685730a4243017321f355172d0c/manifest.mpd?sign=8d869b02a5582693a5c364a2ba609bf6&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be3fbd2f58d7/86556e8bfa3d423e97038d36c040e6fd.png" group-title="CHANNEL | CUBMU TRANVISION",Khazanah
-https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd?sign=7e8cd0783c9e3d7feda6f08e21d92ce9&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd?sign=af74e6af66f15de5f77c08222f0fcce0&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="CHANNEL | CUBMU TRANVISION",Trans TV
-https://cdnjktbpid02.transvision.co.id/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd?sign=bf64ae77f95c78e60fe2fd95d3fb59b6&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd?sign=94a2e740cfb369e4ec92b08f2bc055ff&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg" group-title="CHANNEL | CUBMU TRANVISION",Trans 7
-https://cdnjktbpid02.transvision.co.id/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd?sign=2a3ef1175e45f1e3eabfb62a03c7da54&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd?sign=8efa4acf4b38123fa0b47afe4d8660be&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4783ff58da/dd0e5afbeb2b4a7e802b4fbacce14991.png" group-title="CHANNEL | CUBMU TRANVISION",MetroTV
-https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd?sign=68c92a86704e51b2f857cc498831a545&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd?sign=ab8a8d2b5c5b8b10cc5da9170b6d99d9&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4997e958db/e02f3053b96f4349ad8402d7b181d273.jpg" group-title="CHANNEL | CUBMU TRANVISION",CNN Indonesia
-https://cdnjktbpid02.transvision.co.id/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd?sign=dfb13bc006211921d849fd70b3875737&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd?sign=a7f688fdbda665fa2de71b69c53b0065&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4b82c758dc/2ab30598ad294ca7b817b9ed1202c11f.jpg" group-title="CHANNEL | CUBMU TRANVISION",CNBC Indonesia
-https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68565fa79ce01665868040a343f/manifest.mpd?sign=9503c4a2cecd03e79e21f1b5a4eba87f&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68565fa79ce01665868040a343f/manifest.mpd?sign=648e23987d02b9a20546ccacd8ce159f&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png" group-title="CHANNEL | CUBMU TRANVISION",SCTV
-https://cdnjktbpid02.transvision.co.id/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd?sign=85d6fc46021402100747b46342df8af5&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd?sign=5348dcac2f62927f134efcd77ce22906&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="CHANNEL | CUBMU TRANVISION",Indosiar
-https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6856c3db2cc016cd6e773b02392/manifest.mpd?sign=97dbd6c818974f3f1cdaca1e6f10b4d7&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6856c3db2cc016cd6e773b02392/manifest.mpd?sign=cd932dbf07400bcb586ff704fdd86dca&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be51092e58f1/9eec8914d4f74ee5a5f4d988c2965902.png" group-title="CHANNEL | CUBMU TRANVISION",RCTI
-https://cdnjktbpid02.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd?sign=74759ed928a8b7e2ae2e2a4a717bbf66&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd?sign=ceb6d1c44fcc77b0721b6bbd6c984510&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be52f87b58f2/ffb50ac11f9f42758882f58ff62273be.png" group-title="CHANNEL | CUBMU TRANVISION",GTV
-https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd?sign=9dea4905757f0c8ac87e0b80b4247cc6&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd?sign=26139ae86070f81532f952f748a9bcbd&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be55099d58fa/ccf6f558ffa645a28501c0bfc1de4f05.jpg" group-title="CHANNEL | CUBMU TRANVISION",Jak tv
-https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729cd58bce3c14/manifest.mpd?sign=2c20e169f479dccdf4481086feda5200&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729cd58bce3c14/manifest.mpd?sign=2a64823237d98a9c7125eeeba5fbc95b&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be56c7d858fd/e1c8e9c35f844b84bffed06395734acc.png" group-title="CHANNEL | CUBMU TRANVISION",BTV
-https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd?sign=a3fa912abbf6fbb741d8b534ad5897ee&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd?sign=ea344039304f6a4ff018cc6e5179cd9b&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be58644c5901/87b349f225fa4b0b839447d943a63b5f.jpg" group-title="CHANNEL | CUBMU TRANVISION",Kompas TV
-https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd?sign=dcfc8382e1e62f68b365ec2e872f5a0e&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd?sign=14138850699619590670316a0081b105&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c685758bcfff01776c4ea3520a72/d49166c427c647f0bbbdec08a80aedf5.png" group-title="CHANNEL | CUBMU TRANVISION",MDTV
-https://cdnjktbpid02.transvision.co.id/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd?sign=837b3663f7485366f238c41639a4490d&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd?sign=9bc10829778f936471e24997974d670f&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be5cd0b15903/bb1a5397f68d42899630a14334c359aa.jpg" group-title="CHANNEL | CUBMU TRANVISION",rtv
-https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd?sign=9594c7b2ab0b55880a7b6c6cde246a17&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd?sign=9fecbc746dc9b3722e7f68c48b0a27dd&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be5ef52a5904/441b76dc2d004adda2945df43736dd02.png" group-title="CHANNEL | CUBMU TRANVISION",MNC TV
-https://cdnjktbpid02.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd?sign=cf26985c6153ea1c7679a548ab610173&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd?sign=eab9e79b93c2fd82a86ec709bc59a37a&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68574537fcd0174be6135dc5905/a6a05d485df64ea3839392bb1da7eeeb.png" group-title="CHANNEL | CUBMU TRANVISION",TVRI
-https://cdnjktbpid02.transvision.co.id/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd?sign=8734bd94b1cbc7bbf53b5694727dcaf7&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd?sign=2e0f09107b0cfa17ac64132bc9a6f69e&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857e04fca5017ec407d96b7362/9c255af117004d72b8c8b45ebc64aedb.png" group-title="CHANNEL | CUBMU TRANVISION",jtv
-https://cdnjktbpid02.transvision.co.id/live/master/5/4028c685730a42430173142e26ba7b17/manifest.mpd?sign=c03a9eedb1d534dab2fd0ba5f79bb599&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c685730a42430173142e26ba7b17/manifest.mpd?sign=31957986467c07a88ce7742648999923&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6859645ee4801965cd2114b4431/1f6507213c714e3c88e81200c15287d8.png" group-title="CHANNEL | CUBMU TRANVISION",Berita Satu
-https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6859645ee4801965cd06bed442f/manifest.mpd?sign=d71a4722aabc4afedd5a60070b343357&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6859645ee4801965cd06bed442f/manifest.mpd?sign=a7feb21207da34a5b64a22764a96cb78&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6859645ee4801965cf074994bf2/c9b2c23789604537965fb321575ce869.jpg" group-title="CHANNEL | CUBMU TRANVISION",Garuda TV
-https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6859645ee4801965cf102264bf3/manifest.mpd?sign=1ccc06cfcb0ec8152516270f845d3a5f&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6859645ee4801965cf102264bf3/manifest.mpd?sign=3ab656b7f34bc5975fca3a07370fd2fd&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c68598610fad0198875a95322b98/2fad77ff8ed94402b84db2a47e52c48c.jpg" group-title="CHANNEL | CUBMU TRANVISION",GOLF PLUS ID
-https://cdnjktbpid02.transvision.co.id/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd?sign=36776ba66adf9a6b7f4aabc4f6274413&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/3/4028c68571b3914b01720e7ff4376d21/manifest.mpd?sign=2e77656ca25518a772e1dd2171a8bc9a&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6858262bb8001827b703a262be7/8cc7a41bcc724b4ea668a5ca1aecac90.jpg" group-title="CHANNEL | CUBMU TRANVISION",Football TV
-https://cdnjktbpid02.transvision.co.id/live/master/1/4028c68582449a2e0182597777ec21f3/manifest.mpd?sign=9bb9cf08ef25bf56e809bc4cbab8a19d&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/1/4028c68582449a2e0182597777ec21f3/manifest.mpd?sign=bb3782f6477d524fe67fe35c506182df&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857fe540a1018060afdef540bc/5e2d673bff2f48cc8b8bf76018911952.jpg" group-title="CHANNEL | CUBMU TRANVISION",Sports TV
-https://cdnjktbpid02.transvision.co.id/live/master/1/4028c6857fe540a1018060afdef540bc/manifest.mpd?sign=db2b0ab93804d10392a43846b5333216&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/1/4028c6857fe540a1018060afdef540bc/manifest.mpd?sign=5879e0c19258111ab90c8cc99dc51be7&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857fe540a1018060a4379740b7/85457b08d53449118c75e2f51186ddcb.jpg" group-title="CHANNEL | CUBMU TRANVISION",Xtrem Sports
-https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd?sign=bbc02c34b0b1a3944cf19a0dff1913a6&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/4/4028c6857fe540a1018060a4379740b7/manifest.mpd?sign=c9a2403d061da61a6e6552aae5e2348c&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857fe540a1018060b2307340bd/086909c32b7a426eae75792a891c9d8f.jpg" group-title="CHANNEL | CUBMU TRANVISION",Speed TV
-https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd?sign=608f14bf795b0b5e22db5891e17e7ed1&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd?sign=ae69a574e3004d88f36368244368890c&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857fe540a1018060a0c34340b6/b3884938fdda48e49561e7e27024a00c.jpg" group-title="CHANNEL | CUBMU TRANVISION",Fight TV Premium
-https://cdnjktbpid02.transvision.co.id/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd?sign=b4cb628d828cea6cd7b55b0ff7c9ad07&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd?sign=7be99126bc405763d8e6982a78da3e8c&time=1763971873
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #EXTINF:-1 group-logo="http://terabit.web.id/glogo/trans.png" tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6858d6351f0018dc0100d513246/393b382b27e14f9b9b7843ddcb69298f.jpg" group-title="CHANNEL | CUBMU TRANVISION",PSJ TV
-https://cdnjktbpid02.transvision.co.id/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd?sign=ee14ee798308679a2500d7a5d5c4966e&time=1763911371
+https://cdnjktbpid02.transvision.co.id/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd?sign=8b1f47631a30db91fcb970f92f2835fb&time=1763971873
 
 #EXTINF:-1 group-logo="https://starlord.web.id/glogo/kids.png" tvg-logo="http://103.127.132.205/wiki/wikipedia/commons/7/78/Mentari_TV.png" group-title="CHANNEL | KIDS",Mentari TV
-https://archertv.my.id/atraksi/index.mpd?id=8237&type=dash&token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb|User-Agent=VidioPlayer/6.31.6
+https://archertv.my.id/atraksi/index.mpd?id=8237&type=dash&token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8|User-Agent=VidioPlayer/6.31.6
 
 #EXTINF:-1 tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440" group-title="CHANNEL | KIDS",Horee
-https://qtv.my.id/tv_baru/vidio/dash/index.mpd?id=6397&type=dash&token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb|User-Agent=VidioPlayer/6.31.6
+https://qtv.my.id/tv_baru/vidio/dash/index.mpd?id=6397&type=dash&token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8|User-Agent=VidioPlayer/6.31.6
 
 #EXTINF:-1 tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png/revision/latest?cb=20180705160440" group-title="CHANNEL | KIDS",HipHip Horee
-https://qtv.my.id/tv_baru/vidio/dash/index.mpd?id=7052&type=dash&token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb|User-Agent=VidioPlayer/6.31.6
+https://qtv.my.id/tv_baru/vidio/dash/index.mpd?id=7052&type=dash&token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8|User-Agent=VidioPlayer/6.31.6
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IJbbpAhjboI/maxresdefault.jpg" group-title="CHANNEL | KIDS",Tom&Jerry 24/7
 https://qtv.my.id/ytlive/index.m3u8?id=rEKifG2XUZg&type=hls
@@ -3499,7 +3047,7 @@ https://qtv.my.id/ytlive/index.m3u8?id=THooYCltViI&type=hls|User-Agent=Mozilla/5
 https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sctv.co.id/icon.png" group-title="CHANNEL | NASIONAL TV VISION",SCTV FHD
-https://archertv.my.id/atraksi/index.mpd?id=204&type=dash&token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb|User-Agent=VidioPlayer/6.31.6
+https://archertv.my.id/atraksi/index.mpd?id=204&type=dash&token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/itv/index.php?id=0_a7dno7wk&type=drm
@@ -3514,34 +3062,34 @@ https://qtv.my.id/itv/index.mpd?id=0_a7dno7wk&type=dash
 https://qtv.my.id/itv/index.mpd?id=0_uakgnhip&type=dash
 
 #EXTINF:-1 group-title="CHANNEL | NASIONAL TV VISION" tvg-logo="http://103.127.132.205/wiki/wikipedia/commons/thumb/c/c9/Moji_blue.svg/512px-Moji_blue.svg.png",MOJI
-https://archertv.my.id/atraksi/index.mpd?id=206&type=dash&token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb|User-Agent=VidioPlayer/6.31.6
+https://archertv.my.id/atraksi/index.mpd?id=206&type=dash&token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8|User-Agent=VidioPlayer/6.31.6
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg" group-title="CHANNEL | MOVIES",HBO
 http://qtv.my.id/cubmu/index.mpd?id=4028c6856b6088c3016b87d64b970b53
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d054fbf67379f/c84e8a43ee4c4f728352832e29b798ac.png" group-title="CHANNEL | MOVIES",HBO Hits
 http://qtv.my.id/cubmu/index.mpd?id=4028c6856c3db2cc016d054fbf67379f
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="HBO Family.id" tvg-name="HBO Family" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d055927fe37a4/2437dbd5c9484e5e87fe8e40710015d3.png" group-title="CHANNEL | MOVIES",HBO Family
 http://qtv.my.id/cubmu/index.mpd?id=4028c6856c3db2cc016d055927fe37a4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="HBO Signature.id" tvg-name="HBOSignature1" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016d0552e0ca37a2/9603a9f959704b999efab7e3d41b75a3.png" group-title="CHANNEL | MOVIES",HBO Signature
 http://qtv.my.id/cubmu/index.mpd?id=4028c6856c3db2cc016d0552e0ca37a2
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=wAjXRBoF4XgxqpGyq7s6oZ5J5zn2qVEb
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php?token=p8LkzlO8XMz0HG1xmtx8dgazxXAStLt8
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #EXTINF:-1 tvg-id="Cinemax.id" tvg-name="Cinemax" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856c3db2cc016cdbfc4a1934bf/a7166b21b4664d2eba55bc446d84af23.jpg" group-title="CHANNEL | MOVIES", Cinemax
 http://qtv.my.id/cubmu/index.mpd?id=4028c6856c3db2cc016cdbfc4a1934bf
@@ -3599,7 +3147,7 @@ https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb:52508055ec48e5e
 #EXTINF:-1 tvg-logo="http://103.127.132.205/wiki/wikipedia/commons/thumb/0/00/RAI_storia_2010_Logo.svg/2560px-RAI_storia_2010_Logo.svg.png" group-title="CHANNEL | KNOWLEDGE",RAI Storia
 https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
-# ===== Update 2025-11-23 22:24:08 =====
+# ===== Update 2025-11-24 15:12:29 =====
 LIVE EVENT CADANGAN
 
 
