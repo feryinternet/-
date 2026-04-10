@@ -1,0 +1,26 @@
+
+#EXTM3U
+
+# --- NEWS CHANNELS (GLOBAL) ---
+
+#EXTINF:-1 tvg-id="AlJazeera.en" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/1280px-Aljazeera_eng.svg.png" group-title="NEWS", Al Jazeera English
+https://live-hls-web-aje.akamaized.net/hls/live/2036308/aje/index.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bloomberg_logo.svg/1280px-Bloomberg_logo.svg.png" group-title="NEWS", Bloomberg TV
+https://live-bloomberg.akamaized.net/hls/live/2033668/bloomberg_us/index.m3u8
+
+#EXTINF:-1 tvg-id="DW.en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Deutsche_Welle_logo.svg" group-title="NEWS", Deutsche Welle (DW) English
+https://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/index_1.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/TRT_World_logo.svg/1280px-TRT_World_logo.svg.png" group-title="NEWS", TRT World
+https://tv-trtworld.medyahub.tv/index.m3u8
+
+# --- SCIENCE & EDUCATION ---
+
+#EXTINF:-1 tvg-id="NASA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/1224px-NASA_logo.svg.png" group-title="KIDS & EDUCATION", NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014049/NASA-NTV1-HLS/master.m3u8
+
+# --- ENTERTAINMENT ---
+
+#EXTINF:-1 tvg-id="FashionTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/FashionTV_logo.svg/1280px-FashionTV_logo.svg.png" group-title="LIFESTYLE", Fashion TV
+https://fash1043.cloudycdn.be/sls/ftv_ftv_mid_1/index.m3u8
