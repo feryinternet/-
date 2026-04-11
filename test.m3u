@@ -6,8 +6,7 @@
 #EXTINF:-1 tvg-id="AlJazeera.en" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174bdfe22ee5150/141ea9331d7d4312bca2491c742a3b01.png" group-title="NEWS", Al Jazeera English
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg.us" tvg-logo="https://e7.pngegg.com/pngimages/95/662/png-clipart-bloomberg-television-management-organization-business-charity-logo-company-text.png" group-title="NEWS", Bloomberg TV
-https://dai.google.com/linear/hls/pb/event/k-VHR5unRdusBDqoXAuB0Q/stream/d4b566bc-9660-4a69-9b73-8ce88af32936:SIN2/master.m3u8
+
 
 #EXTINF:-1 tvg-id="DW.en" tvg-logo="https://thumbor.prod.vidiocdn.com/CkGuUHK9vLiapJ8s_TVp_Mj5v60=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/5075/f6106b.png" group-title="NEWS", Deutsche Welle (DW) English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
