@@ -11,6 +11,15 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=supersports-4
 #KODIPROP:inputstream.adaptive.manifest_headers=referer=https%3A//vileembeds.pages.dev/
 https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8?
 
+#EXTINF:-1 group-title="ENTERTAINMENT✨" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG_1748797351518.png", Anime
+ENTERTAINMENT✨
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=09d04201-9859-11f0-8591-e7660be312cd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=89eef57a-f4bb-4882-bab3-6488c2146ccd&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="ENTERTAINMENT✨" tvg-logo="https://images.pluto.tv/channels/67ed8c15c84f951267dbebc2/colorLogoPNG_1746815802607.png", Anime Comedy
+ENTERTAINMENT✨
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67ed8c15c84f951267dbebc2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=09d04202-9859-11f0-8591-e7660be312cd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7f46d9a0-412a-4ae8-ba57-506c0fba3956&userId=&serverSideAds=true
+
+
 #EXTINF:-1 tvg-name="Astro Premier League 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="Sports", Astro Premier League 2
 Sports
 http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/1163683
