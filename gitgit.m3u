@@ -11,6 +11,17 @@ https://rakyattv.my.id/donate/stream.php/.m3u8?id=supersports-4
 #KODIPROP:inputstream.adaptive.manifest_headers=referer=https%3A//vileembeds.pages.dev/
 https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8?
 
+
+#EXTINF:-1 group-title="World Cup Xtream⚡" tvg-logo="https://i.ibb.co/k6KQwhFN/1000284104.png", Unite8 Sports 1 B (India)
+World Cup Xtream⚡
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=373312&extension=ts&play_token=yxij1SDXGd
+
+#EXTINF:-1 group-title="World Cup Xtream⚡" tvg-logo="https://i.ibb.co/k6KQwhFN/1000284104.png", Unite8 Sports 1 C (India)
+World Cup Xtream⚡
+https://xfireflix.my.id/mac.php?id=373312.m3u8
+
+
+
 #EXTINF:-1 group-title="ENTERTAINMENT✨" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG_1748797351518.png", Anime
 ENTERTAINMENT✨
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=09d04201-9859-11f0-8591-e7660be312cd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=89eef57a-f4bb-4882-bab3-6488c2146ccd&userId=&serverSideAds=true
