@@ -24,3 +24,23 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 #KODIPROP:license_type=clearkey
 #KODIPROP:license_key=09ddfe3d63863cafaeb79d0546b098ab:3de0f38dcf014827dfd5bec38743c6a2
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="National Geographic Abu Dhabi" tvg-logo="https://i.imgur.com/fNA00VF.png" id="720335400128" drm="true" group-title="STARZ",National Geographic Abu Dhabi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fdd8dd5726d51bea4ccc7358dc018f6:32fab75ba9b398946e8c3afa01917a8f
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/national_geo/national_geo_dash_enc/index.mpd
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Nat Geo Abu Dhabi HD" tvg-logo="https://i.imgur.com/fNA00VF.png" id="NatGeo_AbuDhabi_HD" drm="true" group-title="STARZ",Nat Geo Abu Dhabi HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=99e6654c4904aa34faccf6f7dc75c7ff:7cc60d98af11e3a180c3048019c62b75
+https://ev-fast-mpd.starzplayarabia.com/live/eds/NatGeo_AbuDhabi_HD/DASH/NatGeo_AbuDhabi_HD.mpd
