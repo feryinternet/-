@@ -580,3 +580,9 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/national_geo/nationa
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=99e6654c4904aa34faccf6f7dc75c7ff:7cc60d98af11e3a180c3048019c62b75
 https://ev-fast-mpd.starzplayarabia.com/live/eds/NatGeo_AbuDhabi_HD/DASH/NatGeo_AbuDhabi_HD.mpd
+
+
+#EXTINF:-1 tvg-id="RCTI" group-title="INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://rcti-plus.malingtv.workers.dev/rcti
