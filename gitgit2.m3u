@@ -596,3 +596,9 @@ https://rcti-plus.malingtv.workers.dev/rcti
 #KODIPROP:inputstream.adaptive.license_key={9fca0ab86d2243e3a1f610bdc0bfd5d9:838237f2314eff8dddc8dff8b533e40c,ac21797938094449917d18ed2a302b6d:f56b00d9e8abc67877f83645734924da} 
 #KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE3NzM1MjQxNTgsImV4cCI6MTc3MzU2NzM1OCwiaXNzIjoiaHR0cHM6Ly9zb3Rlci1wZi5zdmUudmlkZW8udGVsZWZvbmljYXNlcnZpY2VzLmNvbS9zZXJ2aWNlL3RjZG5pZHNlcnZlciIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJzdWIiOiIybXVRaWRmdE5YODRSZGhrU29qa3RnPT0iLCJhdXRoX3RpbWUiOjE3NzM1MjQxNTgsImlkcCI6Im1vdmlzdGFyKyIsInVpZCI6Ing5cWd4ekIwL1FuRWNmUm9UMmIyZzBmNmlKMzJKZ1ZCckZOdURyZkhQbFU9IiwiYWNjIjoic3ZUdmg4Mzh4eHVVeE4rL2FKTnRnZz09IiwicyI6IjgiLCJqdGkiOiI3OTNENTdCNUVBQ0E2NDMyNTcwQ0U0QkMzNEFBRDg5RSIsImlhdCI6MTc3MzUyNDE1OCwic2NvcGUiOiJjZG4ifQ.jjsYnmzgeTyqokuQTURQLePZY62ccN0GdkOfG8VAFTto5v97QXGLJZmdRavnQc7Sji-AOugf7GPMbDocMDpk0A 
 https://mlaliga-dash-movistarplus.emisiondof6.com/manifest.mpd
+
+#EXTINF: -1 tvg-name="tset" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/MLIGA" group-title="test", test 1 
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+
+#EXTINF: -1 tvg-name="tset" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/MLIGA" group-title="test", test 2
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
