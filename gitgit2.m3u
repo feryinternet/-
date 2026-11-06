@@ -611,3 +611,13 @@ https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cca908f736f54dfc90ec844fe123942c:9fea9e1b52e1e87a7d4c1dec0c46307f
 https://livevlisctcdnw.seenow.vn/livesnv2/VTV1_HD/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="La 1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE" group-title="MOVISTAR ISM" catchup-type="default" catchup-source="https://cutv-wp0.cdn.telefonica.com/4521/vxfmt=dp/Manifest.isml?device_profile=MSS_TV_PLAYREADY&start_time={start_iso}&end_time={end_iso}" catchup-days="21",LA 1
+#KODIPROP:inputstream.adaptive.manifest_type=ss
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=14fc0e3b249a43faa52fc69279e77cab:71c987df089eda046faf592931e84a5c,4be54e4a71904793bcaf4bf2c53dd298:5ff297a2554b9d86ff2e1111bba6094c
+#EXTVLCOPT:http-referrer=https://ver.movistarplus.es/
+#EXTVLCOPT:http-user-agent=MI5_TV/1.0.25 (Linux;Android 9) ExoPlayerLib/2.8.4
+http://tvela1-pry-movistarplus.emisiondof6.com/index.isml/Manifest
